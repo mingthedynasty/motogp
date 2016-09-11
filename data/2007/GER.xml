@@ -1,0 +1,589 @@
+<race slowestlap="308.466" fastestlap="83.082" bottomspeed="139.2" topspeed="275.5" averagespeed="267.2" maxgap="296.675">
+    <laps>
+        <lap>
+            <rider num="27"/>
+            <rider num="26"/>
+            <rider num="33"/>
+            <rider num="14"/>
+            <rider num="21"/>
+            <rider num="46"/>
+            <rider num="65"/>
+            <rider num="4"/>
+            <rider num="50"/>
+            <rider num="56"/>
+            <rider num="71"/>
+            <rider num="13"/>
+            <rider num="5"/>
+            <rider num="1"/>
+            <rider num="7"/>
+            <rider num="66"/>
+            <rider num="84"/>
+            <rider num="6"/>
+            <rider num="80"/>
+        </lap>
+        <lap>
+            <rider gap="0" laptime="85.132" laptimedisplay="1&apos;25.132" num="26"/>
+            <rider gap="0.288" gapdisplay="0.288" laptime="85.42" laptimedisplay="1&apos;25.420" num="27"/>
+            <rider gap="0.433" gapdisplay="0.433" laptime="85.565" laptimedisplay="1&apos;25.565" num="33"/>
+            <rider gap="0.865" gapdisplay="0.865" laptime="85.997" laptimedisplay="1&apos;25.997" num="21"/>
+            <rider gap="1.037" gapdisplay="1.037" laptime="86.169" laptimedisplay="1&apos;26.169" num="65"/>
+            <rider gap="1.169" gapdisplay="1.169" laptime="86.301" laptimedisplay="1&apos;26.301" num="14"/>
+            <rider gap="1.696" gapdisplay="1.696" laptime="86.828" laptimedisplay="1&apos;26.828" num="4"/>
+            <rider gap="1.908" gapdisplay="1.908" laptime="87.04" laptimedisplay="1&apos;27.040" num="46"/>
+            <rider gap="1.968" gapdisplay="1.968" laptime="87.1" laptimedisplay="1&apos;27.100" num="56"/>
+            <rider gap="2.153" gapdisplay="2.153" laptime="87.285" laptimedisplay="1&apos;27.285" num="1"/>
+            <rider gap="2.448" gapdisplay="2.448" laptime="87.58" laptimedisplay="1&apos;27.580" num="5"/>
+            <rider gap="2.810" gapdisplay="2.810" laptime="87.942" laptimedisplay="1&apos;27.942" num="50"/>
+            <rider gap="3.265" gapdisplay="3.265" laptime="88.397" laptimedisplay="1&apos;28.397" num="13"/>
+            <rider gap="3.352" gapdisplay="3.352" laptime="88.484" laptimedisplay="1&apos;28.484" num="7"/>
+            <rider gap="3.535" gapdisplay="3.535" laptime="88.667" laptimedisplay="1&apos;28.667" num="66"/>
+            <rider gap="3.785" gapdisplay="3.785" laptime="88.917" laptimedisplay="1&apos;28.917" num="71"/>
+            <rider gap="4.770" gapdisplay="4.770" laptime="89.902" laptimedisplay="1&apos;29.902" num="84"/>
+            <rider gap="4.836" gapdisplay="4.836" laptime="89.968" laptimedisplay="1&apos;29.968" num="6"/>
+            <rider gap="4.996" gapdisplay="4.996" laptime="90.128" laptimedisplay="1&apos;30.128" num="80"/>
+        </lap>
+        <lap>
+            <rider topspeed="267.5" gap="0" laptime="83.93" laptimedisplay="1&apos;23.930" num="26"/>
+            <rider topspeed="268.0" gap="0.219" gapdisplay="0.219" laptime="83.861" laptimedisplay="1&apos;23.861" num="27"/>
+            <rider topspeed="269.1" gap="0.334" gapdisplay="0.334" laptime="83.831" laptimedisplay="1&apos;23.831" num="33"/>
+            <rider topspeed="273.6" gap="1.309" gapdisplay="1.309" laptime="84.202" laptimedisplay="1&apos;24.202" num="65"/>
+            <rider topspeed="267.7" gap="1.495" gapdisplay="1.495" laptime="84.56" laptimedisplay="1&apos;24.560" num="21"/>
+            <rider topspeed="266.5" gap="1.775" gapdisplay="1.775" laptime="84.536" laptimedisplay="1&apos;24.536" num="14"/>
+            <rider topspeed="267.0" gap="2.361" gapdisplay="2.361" laptime="84.595" laptimedisplay="1&apos;24.595" num="4"/>
+            <rider topspeed="266.3" gap="2.468" gapdisplay="2.468" laptime="84.49" laptimedisplay="1&apos;24.490" num="46"/>
+            <rider topspeed="267.4" gap="2.763" gapdisplay="2.763" laptime="84.54" laptimedisplay="1&apos;24.540" num="1"/>
+            <rider topspeed="259.7" gap="3.467" gapdisplay="3.467" laptime="84.949" laptimedisplay="1&apos;24.949" num="5"/>
+            <rider topspeed="263.5" gap="3.550" gapdisplay="3.550" laptime="85.512" laptimedisplay="1&apos;25.512" num="56"/>
+            <rider topspeed="264.6" gap="3.852" gapdisplay="3.852" laptime="84.972" laptimedisplay="1&apos;24.972" num="50"/>
+            <rider topspeed="263.7" gap="4.302" gapdisplay="4.302" laptime="84.88" laptimedisplay="1&apos;24.880" num="7"/>
+            <rider topspeed="265.7" gap="4.342" gapdisplay="4.342" laptime="85.007" laptimedisplay="1&apos;25.007" num="13"/>
+            <rider topspeed="259.2" gap="4.503" gapdisplay="4.503" laptime="84.898" laptimedisplay="1&apos;24.898" num="66"/>
+            <rider topspeed="250.5" gap="4.917" gapdisplay="4.917" laptime="85.062" laptimedisplay="1&apos;25.062" num="71"/>
+            <rider topspeed="258.6" gap="6.429" gapdisplay="6.429" laptime="85.589" laptimedisplay="1&apos;25.589" num="84"/>
+            <rider topspeed="264.3" gap="6.750" gapdisplay="6.750" laptime="85.844" laptimedisplay="1&apos;25.844" num="6"/>
+            <rider topspeed="254.1" gap="6.947" gapdisplay="6.947" laptime="85.881" laptimedisplay="1&apos;25.881" num="80"/>
+        </lap>
+        <lap>
+            <rider topspeed="271.1" gap="0" laptime="83.652" laptimedisplay="1&apos;23.652" num="26"/>
+            <rider topspeed="274.4" gap="0.260" gapdisplay="0.260" laptime="83.693" laptimedisplay="1&apos;23.693" num="27"/>
+            <rider topspeed="267.7" gap="0.373" gapdisplay="0.373" laptime="83.691" laptimedisplay="1&apos;23.691" num="33"/>
+            <rider topspeed="270.9" gap="1.235" gapdisplay="1.235" laptime="83.578" laptimedisplay="1&apos;23.578" num="65"/>
+            <rider topspeed="267.8" gap="1.888" gapdisplay="1.888" laptime="84.045" laptimedisplay="1&apos;24.045" num="21"/>
+            <rider topspeed="268.5" gap="2.076" gapdisplay="2.076" laptime="83.953" laptimedisplay="1&apos;23.953" num="14"/>
+            <rider topspeed="268.1" gap="2.345" gapdisplay="2.345" laptime="83.529" laptimedisplay="1&apos;23.529" num="46"/>
+            <rider topspeed="267.7" gap="3.233" gapdisplay="3.233" laptime="84.122" laptimedisplay="1&apos;24.122" num="1"/>
+            <rider topspeed="270.5" gap="3.531" gapdisplay="3.531" laptime="84.822" laptimedisplay="1&apos;24.822" num="4"/>
+            <rider topspeed="267.9" gap="4.059" gapdisplay="4.059" laptime="84.244" laptimedisplay="1&apos;24.244" num="5"/>
+            <rider topspeed="270.6" gap="4.319" gapdisplay="4.319" laptime="84.421" laptimedisplay="1&apos;24.421" num="56"/>
+            <rider topspeed="266.5" gap="4.883" gapdisplay="4.883" laptime="84.683" laptimedisplay="1&apos;24.683" num="50"/>
+            <rider topspeed="263.8" gap="5.762" gapdisplay="5.762" laptime="85.072" laptimedisplay="1&apos;25.072" num="13"/>
+            <rider topspeed="263.0" gap="5.910" gapdisplay="5.910" laptime="85.059" laptimedisplay="1&apos;25.059" num="66"/>
+            <rider topspeed="265.2" gap="5.994" gapdisplay="5.994" laptime="84.729" laptimedisplay="1&apos;24.729" num="71"/>
+            <rider topspeed="265.5" gap="7.188" gapdisplay="7.188" laptime="84.411" laptimedisplay="1&apos;24.411" num="84"/>
+            <rider topspeed="262.2" gap="9.019" gapdisplay="9.019" laptime="85.921" laptimedisplay="1&apos;25.921" num="6"/>
+            <rider topspeed="262.0" gap="9.144" gapdisplay="9.144" laptime="85.849" laptimedisplay="1&apos;25.849" num="80"/>
+            <rider topspeed="264.5" gap="45.371" gapdisplay="45.371" laptime="124.721" laptimedisplay="2&apos;04.721" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.3" gap="0" laptime="83.318" laptimedisplay="1&apos;23.318" num="26"/>
+            <rider topspeed="272.8" gap="0.189" gapdisplay="0.189" laptime="83.247" laptimedisplay="1&apos;23.247" num="27"/>
+            <rider topspeed="266.6" gap="0.424" gapdisplay="0.424" laptime="83.369" laptimedisplay="1&apos;23.369" num="33"/>
+            <rider topspeed="273.2" gap="1.145" gapdisplay="1.145" laptime="83.228" laptimedisplay="1&apos;23.228" num="65"/>
+            <rider topspeed="268.8" gap="2.158" gapdisplay="2.158" laptime="83.588" laptimedisplay="1&apos;23.588" num="21"/>
+            <rider topspeed="264.6" gap="2.630" gapdisplay="2.630" laptime="83.872" laptimedisplay="1&apos;23.872" num="14"/>
+            <rider topspeed="267.4" gap="2.740" gapdisplay="2.740" laptime="83.713" laptimedisplay="1&apos;23.713" num="46"/>
+            <rider topspeed="269.7" gap="3.883" gapdisplay="3.883" laptime="83.968" laptimedisplay="1&apos;23.968" num="1"/>
+            <rider topspeed="268.9" gap="4.362" gapdisplay="4.362" laptime="84.149" laptimedisplay="1&apos;24.149" num="4"/>
+            <rider topspeed="268.5" gap="4.887" gapdisplay="4.887" laptime="84.146" laptimedisplay="1&apos;24.146" num="5"/>
+            <rider topspeed="266.8" gap="6.540" gapdisplay="6.540" laptime="84.096" laptimedisplay="1&apos;24.096" num="13"/>
+            <rider topspeed="269.5" gap="6.856" gapdisplay="6.856" laptime="84.264" laptimedisplay="1&apos;24.264" num="66"/>
+            <rider topspeed="265.4" gap="7.394" gapdisplay="7.394" laptime="84.718" laptimedisplay="1&apos;24.718" num="71"/>
+            <rider topspeed="264.6" gap="8.330" gapdisplay="8.330" laptime="84.46" laptimedisplay="1&apos;24.460" num="84"/>
+            <rider topspeed="268.7" gap="11.36" gapdisplay="11.36" laptime="90.363" laptimedisplay="1&apos;30.363" num="56"/>
+            <rider topspeed="266.1" gap="11.59" gapdisplay="11.59" laptime="85.767" laptimedisplay="1&apos;25.767" num="80"/>
+            <rider topspeed="264.6" gap="12.648" gapdisplay="12.648" laptime="86.947" laptimedisplay="1&apos;26.947" num="6"/>
+            <rider topspeed="264.5" gap="270.519" gapdisplay="4&apos;30.519" laptime="308.466" laptimedisplay="5&apos;08.466" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.5" gap="0" laptime="83.267" laptimedisplay="1&apos;23.267" num="26"/>
+            <rider topspeed="271.1" gap="0.238" gapdisplay="0.238" laptime="83.316" laptimedisplay="1&apos;23.316" num="27"/>
+            <rider topspeed="267.1" gap="0.526" gapdisplay="0.526" laptime="83.369" laptimedisplay="1&apos;23.369" num="33"/>
+            <rider topspeed="272.4" gap="1.240" gapdisplay="1.240" laptime="83.362" laptimedisplay="1&apos;23.362" num="65"/>
+            <rider topspeed="267.9" gap="2.347" gapdisplay="2.347" laptime="83.456" laptimedisplay="1&apos;23.456" num="21"/>
+            <rider topspeed="269.0" gap="3.162" gapdisplay="3.162" laptime="83.799" laptimedisplay="1&apos;23.799" num="14"/>
+            <rider topspeed="268.2" gap="3.332" gapdisplay="3.332" laptime="83.859" laptimedisplay="1&apos;23.859" num="46"/>
+            <rider topspeed="270.7" gap="5.344" gapdisplay="5.344" laptime="84.249" laptimedisplay="1&apos;24.249" num="4"/>
+            <rider topspeed="270.0" gap="5.548" gapdisplay="5.548" laptime="84.932" laptimedisplay="1&apos;24.932" num="1"/>
+            <rider topspeed="266.9" gap="5.792" gapdisplay="5.792" laptime="84.172" laptimedisplay="1&apos;24.172" num="5"/>
+            <rider topspeed="264.4" gap="7.253" gapdisplay="7.253" laptime="83.98" laptimedisplay="1&apos;23.980" num="13"/>
+            <rider topspeed="262.9" gap="7.738" gapdisplay="7.738" laptime="84.149" laptimedisplay="1&apos;24.149" num="66"/>
+            <rider topspeed="265.1" gap="9.346" gapdisplay="9.346" laptime="84.283" laptimedisplay="1&apos;24.283" num="84"/>
+            <rider topspeed="266.2" gap="11.08" gapdisplay="11.08" laptime="86.957" laptimedisplay="1&apos;26.957" num="71"/>
+            <rider topspeed="267.5" gap="13.66" gapdisplay="13.66" laptime="85.57" laptimedisplay="1&apos;25.570" num="56"/>
+            <rider topspeed="262.6" gap="14.18" gapdisplay="14.18" laptime="85.861" laptimedisplay="1&apos;25.861" num="80"/>
+            <rider topspeed="260.2" gap="15.890" gapdisplay="15.890" laptime="86.509" laptimedisplay="1&apos;26.509" num="6"/>
+            <rider topspeed="267.1" gap="271.752" gapdisplay="4&apos;31.752" laptime="84.5" laptimedisplay="1&apos;24.500" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.7" gap="0" laptime="83.082" laptimedisplay="1&apos;23.082" num="26"/>
+            <rider topspeed="273.6" gap="0.318" gapdisplay="0.318" laptime="83.162" laptimedisplay="1&apos;23.162" num="27"/>
+            <rider topspeed="269.4" gap="0.690" gapdisplay="0.690" laptime="83.246" laptimedisplay="1&apos;23.246" num="33"/>
+            <rider topspeed="273.8" gap="1.662" gapdisplay="1.662" laptime="83.504" laptimedisplay="1&apos;23.504" num="65"/>
+            <rider topspeed="269.3" gap="2.943" gapdisplay="2.943" laptime="83.678" laptimedisplay="1&apos;23.678" num="21"/>
+            <rider topspeed="270.8" gap="4.608" gapdisplay="4.608" laptime="84.528" laptimedisplay="1&apos;24.528" num="14"/>
+            <rider topspeed="269.4" gap="6.521" gapdisplay="6.521" laptime="84.259" laptimedisplay="1&apos;24.259" num="4"/>
+            <rider topspeed="264.0" gap="7.443" gapdisplay="7.443" laptime="84.733" laptimedisplay="1&apos;24.733" num="5"/>
+            <rider topspeed="261.7" gap="7.653" gapdisplay="7.653" laptime="85.187" laptimedisplay="1&apos;25.187" num="1"/>
+            <rider topspeed="264.3" gap="8.410" gapdisplay="8.410" laptime="84.239" laptimedisplay="1&apos;24.239" num="13"/>
+            <rider topspeed="270.3" gap="8.813" gapdisplay="8.813" laptime="84.157" laptimedisplay="1&apos;24.157" num="66"/>
+            <rider topspeed="264.4" gap="10.825" gapdisplay="10.825" laptime="84.561" laptimedisplay="1&apos;24.561" num="84"/>
+            <rider topspeed="269.3" gap="15.515" gapdisplay="15.515" laptime="84.93" laptimedisplay="1&apos;24.930" num="56"/>
+            <rider topspeed="265.0" gap="16.722" gapdisplay="16.722" laptime="85.617" laptimedisplay="1&apos;25.617" num="80"/>
+            <rider topspeed="265.8" gap="22.198" gapdisplay="22.198" laptime="89.39" laptimedisplay="1&apos;29.390" num="6"/>
+            <rider topspeed="266.2" gap="30.332" gapdisplay="30.332" laptime="102.33" laptimedisplay="1&apos;42.330" num="71"/>
+            <rider topspeed="265.7" gap="273.14" gapdisplay="4&apos;33.14" laptime="84.476" laptimedisplay="1&apos;24.476" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.1" gap="0" laptime="83.161" laptimedisplay="1&apos;23.161" num="26"/>
+            <rider topspeed="273.1" gap="0.344" gapdisplay="0.344" laptime="83.187" laptimedisplay="1&apos;23.187" num="27"/>
+            <rider topspeed="270.5" gap="0.821" gapdisplay="0.821" laptime="83.292" laptimedisplay="1&apos;23.292" num="33"/>
+            <rider topspeed="271.4" gap="1.861" gapdisplay="1.861" laptime="83.36" laptimedisplay="1&apos;23.360" num="65"/>
+            <rider topspeed="269.3" gap="3.554" gapdisplay="3.554" laptime="83.772" laptimedisplay="1&apos;23.772" num="21"/>
+            <rider topspeed="270.6" gap="5.733" gapdisplay="5.733" laptime="84.286" laptimedisplay="1&apos;24.286" num="14"/>
+            <rider topspeed="269.5" gap="7.473" gapdisplay="7.473" laptime="84.113" laptimedisplay="1&apos;24.113" num="4"/>
+            <rider topspeed="267.9" gap="8.618" gapdisplay="8.618" laptime="84.336" laptimedisplay="1&apos;24.336" num="5"/>
+            <rider topspeed="261.4" gap="9.083" gapdisplay="9.083" laptime="84.591" laptimedisplay="1&apos;24.591" num="1"/>
+            <rider topspeed="266.7" gap="9.401" gapdisplay="9.401" laptime="84.152" laptimedisplay="1&apos;24.152" num="13"/>
+            <rider topspeed="265.5" gap="9.998" gapdisplay="9.998" laptime="84.346" laptimedisplay="1&apos;24.346" num="66"/>
+            <rider topspeed="264.1" gap="12.308" gapdisplay="12.308" laptime="84.644" laptimedisplay="1&apos;24.644" num="84"/>
+            <rider topspeed="268.4" gap="17.367" gapdisplay="17.367" laptime="85.013" laptimedisplay="1&apos;25.013" num="56"/>
+            <rider topspeed="265.2" gap="19.615" gapdisplay="19.615" laptime="86.054" laptimedisplay="1&apos;26.054" num="80"/>
+            <rider topspeed="260.3" gap="31.292" gapdisplay="31.292" laptime="92.255" laptimedisplay="1&apos;32.255" num="6"/>
+            <rider topspeed="266.5" gap="32.075" gapdisplay="32.075" laptime="84.904" laptimedisplay="1&apos;24.904" num="71"/>
+            <rider topspeed="265.4" gap="274.506" gapdisplay="4&apos;34.506" laptime="84.521" laptimedisplay="1&apos;24.521" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="274.0" gap="0" laptime="83.183" laptimedisplay="1&apos;23.183" num="26"/>
+            <rider topspeed="273.6" gap="0.493" gapdisplay="0.493" laptime="83.332" laptimedisplay="1&apos;23.332" num="27"/>
+            <rider topspeed="271.4" gap="0.962" gapdisplay="0.962" laptime="83.324" laptimedisplay="1&apos;23.324" num="33"/>
+            <rider topspeed="273.5" gap="2.933" gapdisplay="2.933" laptime="84.255" laptimedisplay="1&apos;24.255" num="65"/>
+            <rider topspeed="269.7" gap="4.682" gapdisplay="4.682" laptime="84.311" laptimedisplay="1&apos;24.311" num="21"/>
+            <rider topspeed="269.3" gap="6.979" gapdisplay="6.979" laptime="84.429" laptimedisplay="1&apos;24.429" num="14"/>
+            <rider topspeed="270.6" gap="8.293" gapdisplay="8.293" laptime="84.003" laptimedisplay="1&apos;24.003" num="4"/>
+            <rider topspeed="269.6" gap="9.574" gapdisplay="9.574" laptime="84.139" laptimedisplay="1&apos;24.139" num="5"/>
+            <rider topspeed="269.4" gap="10.106" gapdisplay="10.106" laptime="84.206" laptimedisplay="1&apos;24.206" num="1"/>
+            <rider topspeed="267.6" gap="10.429" gapdisplay="10.429" laptime="84.211" laptimedisplay="1&apos;24.211" num="13"/>
+            <rider topspeed="269.2" gap="10.902" gapdisplay="10.902" laptime="84.087" laptimedisplay="1&apos;24.087" num="66"/>
+            <rider topspeed="266.7" gap="14.197" gapdisplay="14.197" laptime="85.072" laptimedisplay="1&apos;25.072" num="84"/>
+            <rider topspeed="268.8" gap="18.987" gapdisplay="18.987" laptime="84.803" laptimedisplay="1&apos;24.803" num="56"/>
+            <rider topspeed="265.0" gap="22.594" gapdisplay="22.594" laptime="86.162" laptimedisplay="1&apos;26.162" num="80"/>
+            <rider topspeed="266.7" gap="33.240" gapdisplay="33.240" laptime="84.348" laptimedisplay="1&apos;24.348" num="71"/>
+            <rider topspeed="260.3" gap="125.241" gapdisplay="2&apos;05.241" laptime="177.132" laptimedisplay="2&apos;57.132" num="6"/>
+            <rider topspeed="264.4" gap="275.603" gapdisplay="4&apos;35.603" laptime="84.28" laptimedisplay="1&apos;24.280" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="274.5" gap="0" laptime="83.186" laptimedisplay="1&apos;23.186" num="26"/>
+            <rider topspeed="273.3" gap="0.883" gapdisplay="0.883" laptime="83.576" laptimedisplay="1&apos;23.576" num="27"/>
+            <rider topspeed="269.5" gap="1.827" gapdisplay="1.827" laptime="84.051" laptimedisplay="1&apos;24.051" num="33"/>
+            <rider topspeed="270.4" gap="3.723" gapdisplay="3.723" laptime="83.976" laptimedisplay="1&apos;23.976" num="65"/>
+            <rider topspeed="268.7" gap="5.650" gapdisplay="5.650" laptime="84.154" laptimedisplay="1&apos;24.154" num="21"/>
+            <rider topspeed="269.9" gap="8.000" gapdisplay="8.000" laptime="84.207" laptimedisplay="1&apos;24.207" num="14"/>
+            <rider topspeed="271.6" gap="9.246" gapdisplay="9.246" laptime="84.139" laptimedisplay="1&apos;24.139" num="4"/>
+            <rider topspeed="269.7" gap="10.485" gapdisplay="10.485" laptime="84.097" laptimedisplay="1&apos;24.097" num="5"/>
+            <rider topspeed="269.3" gap="11.133" gapdisplay="11.133" laptime="84.213" laptimedisplay="1&apos;24.213" num="1"/>
+            <rider topspeed="266.3" gap="11.332" gapdisplay="11.332" laptime="84.089" laptimedisplay="1&apos;24.089" num="13"/>
+            <rider topspeed="268.4" gap="11.942" gapdisplay="11.942" laptime="84.226" laptimedisplay="1&apos;24.226" num="66"/>
+            <rider topspeed="265.6" gap="16.087" gapdisplay="16.087" laptime="85.076" laptimedisplay="1&apos;25.076" num="84"/>
+            <rider topspeed="268.5" gap="20.450" gapdisplay="20.450" laptime="84.649" laptimedisplay="1&apos;24.649" num="56"/>
+            <rider topspeed="266.1" gap="25.227" gapdisplay="25.227" laptime="85.819" laptimedisplay="1&apos;25.819" num="80"/>
+            <rider topspeed="267.1" gap="34.745" gapdisplay="34.745" laptime="84.691" laptimedisplay="1&apos;24.691" num="71"/>
+            <rider topspeed="257.0" gap="131.708" gapdisplay="2&apos;11.708" laptime="89.653" laptimedisplay="1&apos;29.653" num="6"/>
+            <rider topspeed="266.4" gap="276.565" gapdisplay="4&apos;36.565" laptime="84.148" laptimedisplay="1&apos;24.148" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.0" gap="0" laptime="83.38" laptimedisplay="1&apos;23.380" num="26"/>
+            <rider topspeed="271.8" gap="1.275" gapdisplay="1.275" laptime="83.772" laptimedisplay="1&apos;23.772" num="27"/>
+            <rider topspeed="270.1" gap="2.215" gapdisplay="2.215" laptime="83.768" laptimedisplay="1&apos;23.768" num="33"/>
+            <rider topspeed="272.2" gap="4.267" gapdisplay="4.267" laptime="83.924" laptimedisplay="1&apos;23.924" num="65"/>
+            <rider topspeed="268.8" gap="6.360" gapdisplay="6.360" laptime="84.09" laptimedisplay="1&apos;24.090" num="21"/>
+            <rider topspeed="269.1" gap="9.243" gapdisplay="9.243" laptime="84.623" laptimedisplay="1&apos;24.623" num="14"/>
+            <rider topspeed="269.2" gap="11.276" gapdisplay="11.276" laptime="84.171" laptimedisplay="1&apos;24.171" num="5"/>
+            <rider topspeed="269.5" gap="11.725" gapdisplay="11.725" laptime="83.972" laptimedisplay="1&apos;23.972" num="1"/>
+            <rider topspeed="267.7" gap="12.050" gapdisplay="12.050" laptime="84.098" laptimedisplay="1&apos;24.098" num="13"/>
+            <rider topspeed="266.0" gap="12.853" gapdisplay="12.853" laptime="84.291" laptimedisplay="1&apos;24.291" num="66"/>
+            <rider topspeed="263.1" gap="18.298" gapdisplay="18.298" laptime="85.591" laptimedisplay="1&apos;25.591" num="84"/>
+            <rider topspeed="268.5" gap="21.938" gapdisplay="21.938" laptime="84.868" laptimedisplay="1&apos;24.868" num="56"/>
+            <rider topspeed="265.0" gap="27.926" gapdisplay="27.926" laptime="86.079" laptimedisplay="1&apos;26.079" num="80"/>
+            <rider topspeed="266.5" gap="35.980" gapdisplay="35.980" laptime="84.615" laptimedisplay="1&apos;24.615" num="71"/>
+            <rider topspeed="262.9" gap="135.781" gapdisplay="2&apos;15.781" laptime="87.453" laptimedisplay="1&apos;27.453" num="6"/>
+            <rider topspeed="265.4" gap="277.762" gapdisplay="4&apos;37.762" laptime="84.577" laptimedisplay="1&apos;24.577" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="271.4" gap="0" laptime="83.185" laptimedisplay="1&apos;23.185" num="26"/>
+            <rider topspeed="273.4" gap="1.918" gapdisplay="1.918" laptime="83.828" laptimedisplay="1&apos;23.828" num="27"/>
+            <rider topspeed="268.6" gap="3.081" gapdisplay="3.081" laptime="84.051" laptimedisplay="1&apos;24.051" num="33"/>
+            <rider topspeed="272.0" gap="4.793" gapdisplay="4.793" laptime="83.711" laptimedisplay="1&apos;23.711" num="65"/>
+            <rider topspeed="268.2" gap="7.066" gapdisplay="7.066" laptime="83.891" laptimedisplay="1&apos;23.891" num="21"/>
+            <rider topspeed="269.1" gap="10.191" gapdisplay="10.191" laptime="84.133" laptimedisplay="1&apos;24.133" num="14"/>
+            <rider topspeed="268.6" gap="12.334" gapdisplay="12.334" laptime="84.243" laptimedisplay="1&apos;24.243" num="5"/>
+            <rider topspeed="268.6" gap="12.544" gapdisplay="12.544" laptime="84.004" laptimedisplay="1&apos;24.004" num="1"/>
+            <rider topspeed="267.5" gap="13.071" gapdisplay="13.071" laptime="84.206" laptimedisplay="1&apos;24.206" num="13"/>
+            <rider topspeed="266.1" gap="13.999" gapdisplay="13.999" laptime="84.331" laptimedisplay="1&apos;24.331" num="66"/>
+            <rider topspeed="262.6" gap="20.687" gapdisplay="20.687" laptime="85.574" laptimedisplay="1&apos;25.574" num="84"/>
+            <rider topspeed="268.2" gap="23.648" gapdisplay="23.648" laptime="84.895" laptimedisplay="1&apos;24.895" num="56"/>
+            <rider topspeed="262.1" gap="30.774" gapdisplay="30.774" laptime="86.033" laptimedisplay="1&apos;26.033" num="80"/>
+            <rider topspeed="266.6" gap="37.245" gapdisplay="37.245" laptime="84.45" laptimedisplay="1&apos;24.450" num="71"/>
+            <rider topspeed="263.5" gap="139.894" gapdisplay="2&apos;19.894" laptime="87.298" laptimedisplay="1&apos;27.298" num="6"/>
+            <rider topspeed="266.9" gap="279.418" gapdisplay="4&apos;39.418" laptime="84.841" laptimedisplay="1&apos;24.841" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.1" gap="0" laptime="83.274" laptimedisplay="1&apos;23.274" num="26"/>
+            <rider topspeed="271.6" gap="2.240" gapdisplay="2.240" laptime="83.596" laptimedisplay="1&apos;23.596" num="27"/>
+            <rider topspeed="269.6" gap="3.769" gapdisplay="3.769" laptime="83.962" laptimedisplay="1&apos;23.962" num="33"/>
+            <rider topspeed="272.9" gap="5.416" gapdisplay="5.416" laptime="83.897" laptimedisplay="1&apos;23.897" num="65"/>
+            <rider topspeed="268.8" gap="7.990" gapdisplay="7.990" laptime="84.198" laptimedisplay="1&apos;24.198" num="21"/>
+            <rider topspeed="268.6" gap="11.367" gapdisplay="11.367" laptime="84.45" laptimedisplay="1&apos;24.450" num="14"/>
+            <rider topspeed="269.2" gap="13.209" gapdisplay="13.209" laptime="84.149" laptimedisplay="1&apos;24.149" num="5"/>
+            <rider topspeed="267.4" gap="13.391" gapdisplay="13.391" laptime="84.121" laptimedisplay="1&apos;24.121" num="1"/>
+            <rider topspeed="267.0" gap="13.735" gapdisplay="13.735" laptime="83.938" laptimedisplay="1&apos;23.938" num="13"/>
+            <rider topspeed="270.2" gap="15.062" gapdisplay="15.062" laptime="84.337" laptimedisplay="1&apos;24.337" num="66"/>
+            <rider topspeed="261.8" gap="23.122" gapdisplay="23.122" laptime="85.709" laptimedisplay="1&apos;25.709" num="84"/>
+            <rider topspeed="268.2" gap="25.355" gapdisplay="25.355" laptime="84.981" laptimedisplay="1&apos;24.981" num="56"/>
+            <rider topspeed="263.5" gap="33.320" gapdisplay="33.320" laptime="85.82" laptimedisplay="1&apos;25.820" num="80"/>
+            <rider topspeed="265.7" gap="38.085" gapdisplay="38.085" laptime="84.114" laptimedisplay="1&apos;24.114" num="71"/>
+            <rider topspeed="265.4" gap="143.827" gapdisplay="2&apos;23.827" laptime="87.207" laptimedisplay="1&apos;27.207" num="6"/>
+            <rider topspeed="265.5" gap="281" gapdisplay="4&apos;41.000" laptime="84.856" laptimedisplay="1&apos;24.856" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="271.6" gap="0" laptime="83.317" laptimedisplay="1&apos;23.317" num="26"/>
+            <rider topspeed="272.2" gap="2.401" gapdisplay="2.401" laptime="83.478" laptimedisplay="1&apos;23.478" num="27"/>
+            <rider topspeed="269.9" gap="4.320" gapdisplay="4.320" laptime="83.868" laptimedisplay="1&apos;23.868" num="33"/>
+            <rider topspeed="272.2" gap="6.145" gapdisplay="6.145" laptime="84.046" laptimedisplay="1&apos;24.046" num="65"/>
+            <rider topspeed="268.5" gap="8.577" gapdisplay="8.577" laptime="83.904" laptimedisplay="1&apos;23.904" num="21"/>
+            <rider topspeed="270.3" gap="12.071" gapdisplay="12.071" laptime="84.021" laptimedisplay="1&apos;24.021" num="14"/>
+            <rider topspeed="268.9" gap="14.482" gapdisplay="14.482" laptime="84.408" laptimedisplay="1&apos;24.408" num="1"/>
+            <rider topspeed="266.6" gap="14.819" gapdisplay="14.819" laptime="84.927" laptimedisplay="1&apos;24.927" num="5"/>
+            <rider topspeed="267.7" gap="15.051" gapdisplay="15.051" laptime="84.633" laptimedisplay="1&apos;24.633" num="13"/>
+            <rider topspeed="268.9" gap="16.256" gapdisplay="16.256" laptime="84.511" laptimedisplay="1&apos;24.511" num="66"/>
+            <rider topspeed="258.6" gap="25.353" gapdisplay="25.353" laptime="85.548" laptimedisplay="1&apos;25.548" num="84"/>
+            <rider topspeed="268.1" gap="27.186" gapdisplay="27.186" laptime="85.148" laptimedisplay="1&apos;25.148" num="56"/>
+            <rider topspeed="263.4" gap="36.049" gapdisplay="36.049" laptime="86.046" laptimedisplay="1&apos;26.046" num="80"/>
+            <rider topspeed="266.9" gap="38.755" gapdisplay="38.755" laptime="83.987" laptimedisplay="1&apos;23.987" num="71"/>
+            <rider topspeed="264.0" gap="147.706" gapdisplay="2&apos;27.706" laptime="87.196" laptimedisplay="1&apos;27.196" num="6"/>
+            <rider topspeed="265.9" gap="282.023" gapdisplay="4&apos;42.023" laptime="84.34" laptimedisplay="1&apos;24.340" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.8" gap="0" laptime="83.349" laptimedisplay="1&apos;23.349" num="26"/>
+            <rider topspeed="273.1" gap="2.876" gapdisplay="2.876" laptime="83.824" laptimedisplay="1&apos;23.824" num="27"/>
+            <rider topspeed="269.4" gap="4.932" gapdisplay="4.932" laptime="83.961" laptimedisplay="1&apos;23.961" num="33"/>
+            <rider topspeed="270.9" gap="6.520" gapdisplay="6.520" laptime="83.724" laptimedisplay="1&apos;23.724" num="65"/>
+            <rider topspeed="268.3" gap="9.231" gapdisplay="9.231" laptime="84.003" laptimedisplay="1&apos;24.003" num="21"/>
+            <rider topspeed="267.9" gap="13.193" gapdisplay="13.193" laptime="84.471" laptimedisplay="1&apos;24.471" num="14"/>
+            <rider topspeed="269.6" gap="14.947" gapdisplay="14.947" laptime="83.814" laptimedisplay="1&apos;23.814" num="1"/>
+            <rider topspeed="269.9" gap="15.788" gapdisplay="15.788" laptime="84.318" laptimedisplay="1&apos;24.318" num="5"/>
+            <rider topspeed="267.2" gap="16.727" gapdisplay="16.727" laptime="85.025" laptimedisplay="1&apos;25.025" num="13"/>
+            <rider topspeed="267.8" gap="17.452" gapdisplay="17.452" laptime="84.545" laptimedisplay="1&apos;24.545" num="66"/>
+            <rider topspeed="261.6" gap="27.489" gapdisplay="27.489" laptime="85.485" laptimedisplay="1&apos;25.485" num="84"/>
+            <rider topspeed="268.1" gap="29.656" gapdisplay="29.656" laptime="85.819" laptimedisplay="1&apos;25.819" num="56"/>
+            <rider topspeed="264.6" gap="38.687" gapdisplay="38.687" laptime="85.987" laptimedisplay="1&apos;25.987" num="80"/>
+            <rider topspeed="266.5" gap="39.660" gapdisplay="39.660" laptime="84.254" laptimedisplay="1&apos;24.254" num="71"/>
+            <rider topspeed="267.3" gap="151.652" gapdisplay="2&apos;31.652" laptime="87.295" laptimedisplay="1&apos;27.295" num="6"/>
+            <rider topspeed="266.5" gap="283.073" gapdisplay="4&apos;43.073" laptime="84.399" laptimedisplay="1&apos;24.399" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="271.6" gap="0" laptime="83.371" laptimedisplay="1&apos;23.371" num="26"/>
+            <rider topspeed="273.1" gap="3.484" gapdisplay="3.484" laptime="83.979" laptimedisplay="1&apos;23.979" num="27"/>
+            <rider topspeed="268.3" gap="5.785" gapdisplay="5.785" laptime="84.224" laptimedisplay="1&apos;24.224" num="33"/>
+            <rider topspeed="271.6" gap="7.449" gapdisplay="7.449" laptime="84.3" laptimedisplay="1&apos;24.300" num="65"/>
+            <rider topspeed="267.7" gap="9.742" gapdisplay="9.742" laptime="83.882" laptimedisplay="1&apos;23.882" num="21"/>
+            <rider topspeed="268.4" gap="14.339" gapdisplay="14.339" laptime="84.517" laptimedisplay="1&apos;24.517" num="14"/>
+            <rider topspeed="270.1" gap="15.299" gapdisplay="15.299" laptime="83.723" laptimedisplay="1&apos;23.723" num="1"/>
+            <rider topspeed="269.1" gap="16.326" gapdisplay="16.326" laptime="83.909" laptimedisplay="1&apos;23.909" num="5"/>
+            <rider topspeed="265.2" gap="17.782" gapdisplay="17.782" laptime="84.426" laptimedisplay="1&apos;24.426" num="13"/>
+            <rider topspeed="266.4" gap="18.532" gapdisplay="18.532" laptime="84.451" laptimedisplay="1&apos;24.451" num="66"/>
+            <rider topspeed="263.0" gap="29.533" gapdisplay="29.533" laptime="85.415" laptimedisplay="1&apos;25.415" num="84"/>
+            <rider topspeed="261.9" gap="32.626" gapdisplay="32.626" laptime="86.341" laptimedisplay="1&apos;26.341" num="56"/>
+            <rider topspeed="267.1" gap="40.898" gapdisplay="40.898" laptime="84.609" laptimedisplay="1&apos;24.609" num="71"/>
+            <rider topspeed="264.8" gap="41.218" gapdisplay="41.218" laptime="85.902" laptimedisplay="1&apos;25.902" num="80"/>
+            <rider topspeed="263.8" gap="155.265" gapdisplay="2&apos;35.265" laptime="86.984" laptimedisplay="1&apos;26.984" num="6"/>
+            <rider topspeed="265.9" gap="284.393" gapdisplay="4&apos;44.393" laptime="84.691" laptimedisplay="1&apos;24.691" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.3" gap="0" laptime="83.376" laptimedisplay="1&apos;23.376" num="26"/>
+            <rider topspeed="273.5" gap="4.038" gapdisplay="4.038" laptime="83.93" laptimedisplay="1&apos;23.930" num="27"/>
+            <rider topspeed="270.4" gap="6.449" gapdisplay="6.449" laptime="84.04" laptimedisplay="1&apos;24.040" num="33"/>
+            <rider topspeed="270.7" gap="7.867" gapdisplay="7.867" laptime="83.794" laptimedisplay="1&apos;23.794" num="65"/>
+            <rider topspeed="269.1" gap="10.438" gapdisplay="10.438" laptime="84.072" laptimedisplay="1&apos;24.072" num="21"/>
+            <rider topspeed="269.9" gap="15.697" gapdisplay="15.697" laptime="84.734" laptimedisplay="1&apos;24.734" num="14"/>
+            <rider topspeed="270.1" gap="15.751" gapdisplay="15.751" laptime="83.828" laptimedisplay="1&apos;23.828" num="1"/>
+            <rider topspeed="268.5" gap="16.851" gapdisplay="16.851" laptime="83.901" laptimedisplay="1&apos;23.901" num="5"/>
+            <rider topspeed="267.1" gap="18.993" gapdisplay="18.993" laptime="84.587" laptimedisplay="1&apos;24.587" num="13"/>
+            <rider topspeed="268.7" gap="19.747" gapdisplay="19.747" laptime="84.591" laptimedisplay="1&apos;24.591" num="66"/>
+            <rider topspeed="262.6" gap="31.220" gapdisplay="31.220" laptime="85.063" laptimedisplay="1&apos;25.063" num="84"/>
+            <rider topspeed="269.7" gap="34.361" gapdisplay="34.361" laptime="85.111" laptimedisplay="1&apos;25.111" num="56"/>
+            <rider topspeed="266.8" gap="41.719" gapdisplay="41.719" laptime="84.197" laptimedisplay="1&apos;24.197" num="71"/>
+            <rider topspeed="264.4" gap="43.615" gapdisplay="43.615" laptime="85.773" laptimedisplay="1&apos;25.773" num="80"/>
+            <rider topspeed="267.7" gap="158.696" gapdisplay="2&apos;38.696" laptime="86.807" laptimedisplay="1&apos;26.807" num="6"/>
+            <rider topspeed="269.5" gap="286.071" gapdisplay="4&apos;46.071" laptime="85.054" laptimedisplay="1&apos;25.054" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.8" gap="0" laptime="83.327" laptimedisplay="1&apos;23.327" num="26"/>
+            <rider topspeed="272.7" gap="5.310" gapdisplay="5.310" laptime="84.599" laptimedisplay="1&apos;24.599" num="27"/>
+            <rider topspeed="269.9" gap="7.331" gapdisplay="7.331" laptime="84.209" laptimedisplay="1&apos;24.209" num="33"/>
+            <rider topspeed="273.1" gap="8.439" gapdisplay="8.439" laptime="83.899" laptimedisplay="1&apos;23.899" num="65"/>
+            <rider topspeed="268.7" gap="10.871" gapdisplay="10.871" laptime="83.76" laptimedisplay="1&apos;23.760" num="21"/>
+            <rider topspeed="269.9" gap="16.271" gapdisplay="16.271" laptime="83.847" laptimedisplay="1&apos;23.847" num="1"/>
+            <rider topspeed="264.5" gap="16.818" gapdisplay="16.818" laptime="84.448" laptimedisplay="1&apos;24.448" num="14"/>
+            <rider topspeed="269.3" gap="17.545" gapdisplay="17.545" laptime="84.021" laptimedisplay="1&apos;24.021" num="5"/>
+            <rider topspeed="265.4" gap="20.285" gapdisplay="20.285" laptime="84.619" laptimedisplay="1&apos;24.619" num="13"/>
+            <rider topspeed="269.6" gap="21.132" gapdisplay="21.132" laptime="84.712" laptimedisplay="1&apos;24.712" num="66"/>
+            <rider topspeed="255.9" gap="32.744" gapdisplay="32.744" laptime="84.851" laptimedisplay="1&apos;24.851" num="84"/>
+            <rider topspeed="267.1" gap="38.876" gapdisplay="38.876" laptime="87.842" laptimedisplay="1&apos;27.842" num="56"/>
+            <rider topspeed="267.7" gap="42.276" gapdisplay="42.276" laptime="83.884" laptimedisplay="1&apos;23.884" num="71"/>
+            <rider topspeed="264.6" gap="46.200" gapdisplay="46.200" laptime="85.912" laptimedisplay="1&apos;25.912" num="80"/>
+            <rider topspeed="267.8" gap="162.517" gapdisplay="2&apos;42.517" laptime="87.148" laptimedisplay="1&apos;27.148" num="6"/>
+            <rider topspeed="266.9" gap="287.454" gapdisplay="4&apos;47.454" laptime="84.71" laptimedisplay="1&apos;24.710" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.6" gap="0" laptime="83.406" laptimedisplay="1&apos;23.406" num="26"/>
+            <rider topspeed="273.3" gap="6.350" gapdisplay="6.350" laptime="84.446" laptimedisplay="1&apos;24.446" num="27"/>
+            <rider topspeed="270.7" gap="7.870" gapdisplay="7.870" laptime="83.945" laptimedisplay="1&apos;23.945" num="33"/>
+            <rider topspeed="273.9" gap="8.946" gapdisplay="8.946" laptime="83.913" laptimedisplay="1&apos;23.913" num="65"/>
+            <rider topspeed="269.9" gap="11.937" gapdisplay="11.937" laptime="84.472" laptimedisplay="1&apos;24.472" num="21"/>
+            <rider topspeed="270.3" gap="16.844" gapdisplay="16.844" laptime="83.979" laptimedisplay="1&apos;23.979" num="1"/>
+            <rider topspeed="270.4" gap="17.912" gapdisplay="17.912" laptime="84.5" laptimedisplay="1&apos;24.500" num="14"/>
+            <rider topspeed="269.1" gap="18.092" gapdisplay="18.092" laptime="83.953" laptimedisplay="1&apos;23.953" num="5"/>
+            <rider topspeed="265.2" gap="21.612" gapdisplay="21.612" laptime="84.733" laptimedisplay="1&apos;24.733" num="13"/>
+            <rider topspeed="269.6" gap="22.439" gapdisplay="22.439" laptime="84.713" laptimedisplay="1&apos;24.713" num="66"/>
+            <rider topspeed="266.3" gap="34.163" gapdisplay="34.163" laptime="84.825" laptimedisplay="1&apos;24.825" num="84"/>
+            <rider topspeed="266.9" gap="42.983" gapdisplay="42.983" laptime="84.113" laptimedisplay="1&apos;24.113" num="71"/>
+            <rider topspeed="264.1" gap="49.023" gapdisplay="49.023" laptime="86.229" laptimedisplay="1&apos;26.229" num="80"/>
+            <rider topspeed="233.3" gap="62.88" gapdisplay="1&apos;02.88" laptime="107.412" laptimedisplay="1&apos;47.412" num="56"/>
+            <rider topspeed="266.7" gap="169.863" gapdisplay="2&apos;49.863" laptime="90.752" laptimedisplay="1&apos;30.752" num="6"/>
+            <rider topspeed="265.9" gap="288.77" gapdisplay="4&apos;48.770" laptime="84.722" laptimedisplay="1&apos;24.722" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="275.0" gap="0" laptime="83.444" laptimedisplay="1&apos;23.444" num="26"/>
+            <rider topspeed="274.3" gap="8.289" gapdisplay="8.289" laptime="85.383" laptimedisplay="1&apos;25.383" num="27"/>
+            <rider topspeed="271.8" gap="8.836" gapdisplay="8.836" laptime="84.41" laptimedisplay="1&apos;24.410" num="33"/>
+            <rider topspeed="273.8" gap="9.755" gapdisplay="9.755" laptime="84.253" laptimedisplay="1&apos;24.253" num="65"/>
+            <rider topspeed="269.9" gap="13.221" gapdisplay="13.221" laptime="84.728" laptimedisplay="1&apos;24.728" num="21"/>
+            <rider topspeed="270.5" gap="17.625" gapdisplay="17.625" laptime="84.225" laptimedisplay="1&apos;24.225" num="1"/>
+            <rider topspeed="265.3" gap="18.973" gapdisplay="18.973" laptime="84.325" laptimedisplay="1&apos;24.325" num="5"/>
+            <rider topspeed="270.3" gap="19.304" gapdisplay="19.304" laptime="84.836" laptimedisplay="1&apos;24.836" num="14"/>
+            <rider topspeed="267.5" gap="22.778" gapdisplay="22.778" laptime="84.61" laptimedisplay="1&apos;24.610" num="13"/>
+            <rider topspeed="270.3" gap="24.137" gapdisplay="24.137" laptime="85.142" laptimedisplay="1&apos;25.142" num="66"/>
+            <rider topspeed="265.9" gap="36.164" gapdisplay="36.164" laptime="85.445" laptimedisplay="1&apos;25.445" num="84"/>
+            <rider topspeed="268.6" gap="43.779" gapdisplay="43.779" laptime="84.24" laptimedisplay="1&apos;24.240" num="71"/>
+            <rider topspeed="262.9" gap="51.686" gapdisplay="51.686" laptime="86.107" laptimedisplay="1&apos;26.107" num="80"/>
+            <rider topspeed="139.2" gap="135.02" gapdisplay="2&apos;15.02" laptime="155.583" laptimedisplay="2&apos;35.583" num="56"/>
+            <rider topspeed="263.7" gap="174.552" gapdisplay="2&apos;54.552" laptime="88.133" laptimedisplay="1&apos;28.133" num="6"/>
+            <rider topspeed="264.4" gap="290.031" gapdisplay="4&apos;50.031" laptime="84.705" laptimedisplay="1&apos;24.705" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="271.4" gap="0" laptime="83.71" laptimedisplay="1&apos;23.710" num="26"/>
+            <rider topspeed="273.6" gap="10.558" gapdisplay="10.558" laptime="85.979" laptimedisplay="1&apos;25.979" num="27"/>
+            <rider topspeed="270.4" gap="10.600" gapdisplay="10.600" laptime="85.474" laptimedisplay="1&apos;25.474" num="33"/>
+            <rider topspeed="273.9" gap="10.668" gapdisplay="10.668" laptime="84.623" laptimedisplay="1&apos;24.623" num="65"/>
+            <rider topspeed="269.0" gap="14.284" gapdisplay="14.284" laptime="84.773" laptimedisplay="1&apos;24.773" num="21"/>
+            <rider topspeed="270.2" gap="18.074" gapdisplay="18.074" laptime="84.159" laptimedisplay="1&apos;24.159" num="1"/>
+            <rider topspeed="269.2" gap="19.149" gapdisplay="19.149" laptime="83.886" laptimedisplay="1&apos;23.886" num="5"/>
+            <rider topspeed="269.5" gap="20.610" gapdisplay="20.610" laptime="85.016" laptimedisplay="1&apos;25.016" num="14"/>
+            <rider topspeed="266.1" gap="24.110" gapdisplay="24.110" laptime="85.042" laptimedisplay="1&apos;25.042" num="13"/>
+            <rider topspeed="266.9" gap="25.498" gapdisplay="25.498" laptime="85.071" laptimedisplay="1&apos;25.071" num="66"/>
+            <rider topspeed="262.6" gap="37.273" gapdisplay="37.273" laptime="84.819" laptimedisplay="1&apos;24.819" num="84"/>
+            <rider topspeed="266.3" gap="45.050" gapdisplay="45.050" laptime="84.981" laptimedisplay="1&apos;24.981" num="71"/>
+            <rider topspeed="264.3" gap="53.960" gapdisplay="53.960" laptime="85.984" laptimedisplay="1&apos;25.984" num="80"/>
+            <rider topspeed="263.2" gap="183.214" gapdisplay="3&apos;03.214" laptime="92.372" laptimedisplay="1&apos;32.372" num="6"/>
+            <rider topspeed="266.7" gap="290.843" gapdisplay="4&apos;50.843" laptime="84.522" laptimedisplay="1&apos;24.522" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="274.3" gap="0" laptime="83.777" laptimedisplay="1&apos;23.777" num="26"/>
+            <rider topspeed="273.8" gap="11.497" gapdisplay="11.497" laptime="84.606" laptimedisplay="1&apos;24.606" num="65"/>
+            <rider topspeed="275.5" gap="12.579" gapdisplay="12.579" laptime="85.798" laptimedisplay="1&apos;25.798" num="27"/>
+            <rider topspeed="268.9" gap="12.762" gapdisplay="12.762" laptime="85.939" laptimedisplay="1&apos;25.939" num="33"/>
+            <rider topspeed="269.0" gap="15.333" gapdisplay="15.333" laptime="84.826" laptimedisplay="1&apos;24.826" num="21"/>
+            <rider topspeed="270.5" gap="18.142" gapdisplay="18.142" laptime="83.845" laptimedisplay="1&apos;23.845" num="1"/>
+            <rider topspeed="269.1" gap="19.404" gapdisplay="19.404" laptime="84.032" laptimedisplay="1&apos;24.032" num="5"/>
+            <rider topspeed="268.9" gap="21.804" gapdisplay="21.804" laptime="84.971" laptimedisplay="1&apos;24.971" num="14"/>
+            <rider topspeed="266.8" gap="25.166" gapdisplay="25.166" laptime="84.833" laptimedisplay="1&apos;24.833" num="13"/>
+            <rider topspeed="268.9" gap="26.467" gapdisplay="26.467" laptime="84.746" laptimedisplay="1&apos;24.746" num="66"/>
+            <rider topspeed="262.9" gap="38.401" gapdisplay="38.401" laptime="84.905" laptimedisplay="1&apos;24.905" num="84"/>
+            <rider topspeed="266.8" gap="45.821" gapdisplay="45.821" laptime="84.548" laptimedisplay="1&apos;24.548" num="71"/>
+            <rider topspeed="263.8" gap="55.960" gapdisplay="55.960" laptime="85.777" laptimedisplay="1&apos;25.777" num="80"/>
+            <rider topspeed="191.1" gap="196.371" gapdisplay="3&apos;16.371" laptime="96.934" laptimedisplay="1&apos;36.934" num="6"/>
+            <rider topspeed="265.4" gap="291.562" gapdisplay="4&apos;51.562" laptime="84.496" laptimedisplay="1&apos;24.496" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="274.9" gap="0" laptime="83.693" laptimedisplay="1&apos;23.693" num="26"/>
+            <rider topspeed="271.6" gap="11.982" gapdisplay="11.982" laptime="84.178" laptimedisplay="1&apos;24.178" num="65"/>
+            <rider topspeed="270.1" gap="14.869" gapdisplay="14.869" laptime="85.8" laptimedisplay="1&apos;25.800" num="33"/>
+            <rider topspeed="274.2" gap="15.186" gapdisplay="15.186" laptime="86.3" laptimedisplay="1&apos;26.300" num="27"/>
+            <rider topspeed="269.5" gap="16.827" gapdisplay="16.827" laptime="85.187" laptimedisplay="1&apos;25.187" num="21"/>
+            <rider topspeed="270.2" gap="18.066" gapdisplay="18.066" laptime="83.617" laptimedisplay="1&apos;23.617" num="1"/>
+            <rider topspeed="269.1" gap="19.668" gapdisplay="19.668" laptime="83.957" laptimedisplay="1&apos;23.957" num="5"/>
+            <rider topspeed="270.1" gap="23.034" gapdisplay="23.034" laptime="84.923" laptimedisplay="1&apos;24.923" num="14"/>
+            <rider topspeed="266.0" gap="26.714" gapdisplay="26.714" laptime="85.241" laptimedisplay="1&apos;25.241" num="13"/>
+            <rider topspeed="270.4" gap="28.020" gapdisplay="28.020" laptime="85.246" laptimedisplay="1&apos;25.246" num="66"/>
+            <rider topspeed="264.8" gap="39.793" gapdisplay="39.793" laptime="85.085" laptimedisplay="1&apos;25.085" num="84"/>
+            <rider topspeed="267.9" gap="46.661" gapdisplay="46.661" laptime="84.533" laptimedisplay="1&apos;24.533" num="71"/>
+            <rider topspeed="265.4" gap="58.084" gapdisplay="58.084" laptime="85.817" laptimedisplay="1&apos;25.817" num="80"/>
+            <rider topspeed="233.3" gap="202.103" gapdisplay="3&apos;22.103" laptime="89.425" laptimedisplay="1&apos;29.425" num="6"/>
+            <rider topspeed="266.8" gap="292.697" gapdisplay="4&apos;52.697" laptime="84.828" laptimedisplay="1&apos;24.828" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="274.1" gap="0" laptime="84.044" laptimedisplay="1&apos;24.044" num="26"/>
+            <rider topspeed="272.0" gap="12.192" gapdisplay="12.192" laptime="84.254" laptimedisplay="1&apos;24.254" num="65"/>
+            <rider topspeed="269.8" gap="16.763" gapdisplay="16.763" laptime="85.938" laptimedisplay="1&apos;25.938" num="33"/>
+            <rider topspeed="256.7" gap="17.699" gapdisplay="17.699" laptime="86.557" laptimedisplay="1&apos;26.557" num="27"/>
+            <rider topspeed="270.2" gap="17.953" gapdisplay="17.953" laptime="85.17" laptimedisplay="1&apos;25.170" num="21"/>
+            <rider topspeed="271.5" gap="18.032" gapdisplay="18.032" laptime="84.01" laptimedisplay="1&apos;24.010" num="1"/>
+            <rider topspeed="269.3" gap="19.537" gapdisplay="19.537" laptime="83.913" laptimedisplay="1&apos;23.913" num="5"/>
+            <rider topspeed="270.7" gap="24.484" gapdisplay="24.484" laptime="85.494" laptimedisplay="1&apos;25.494" num="14"/>
+            <rider topspeed="266.3" gap="27.902" gapdisplay="27.902" laptime="85.232" laptimedisplay="1&apos;25.232" num="13"/>
+            <rider topspeed="269.4" gap="29.528" gapdisplay="29.528" laptime="85.552" laptimedisplay="1&apos;25.552" num="66"/>
+            <rider topspeed="265.7" gap="40.521" gapdisplay="40.521" laptime="84.772" laptimedisplay="1&apos;24.772" num="84"/>
+            <rider topspeed="267.1" gap="47.520" gapdisplay="47.520" laptime="84.903" laptimedisplay="1&apos;24.903" num="71"/>
+            <rider topspeed="263.5" gap="60.2" gapdisplay="1&apos;00.20" laptime="86.167" laptimedisplay="1&apos;26.167" num="80"/>
+            <rider topspeed="265.2" gap="205.354" gapdisplay="3&apos;25.354" laptime="87.295" laptimedisplay="1&apos;27.295" num="6"/>
+            <rider topspeed="266.8" gap="293.288" gapdisplay="4&apos;53.288" laptime="84.635" laptimedisplay="1&apos;24.635" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="272.8" gap="0" laptime="84.124" laptimedisplay="1&apos;24.124" num="26"/>
+            <rider topspeed="272.3" gap="12.277" gapdisplay="12.277" laptime="84.209" laptimedisplay="1&apos;24.209" num="65"/>
+            <rider topspeed="268.4" gap="18.823" gapdisplay="18.823" laptime="86.184" laptimedisplay="1&apos;26.184" num="33"/>
+            <rider topspeed="264.4" gap="18.897" gapdisplay="18.897" laptime="84.989" laptimedisplay="1&apos;24.989" num="1"/>
+            <rider topspeed="273.2" gap="19.636" gapdisplay="19.636" laptime="86.061" laptimedisplay="1&apos;26.061" num="27"/>
+            <rider topspeed="269.8" gap="19.870" gapdisplay="19.870" laptime="84.457" laptimedisplay="1&apos;24.457" num="5"/>
+            <rider topspeed="269.3" gap="20.423" gapdisplay="20.423" laptime="86.594" laptimedisplay="1&apos;26.594" num="21"/>
+            <rider topspeed="269.3" gap="26.646" gapdisplay="26.646" laptime="86.286" laptimedisplay="1&apos;26.286" num="14"/>
+            <rider topspeed="264.9" gap="29.229" gapdisplay="29.229" laptime="85.451" laptimedisplay="1&apos;25.451" num="13"/>
+            <rider topspeed="268.9" gap="31.359" gapdisplay="31.359" laptime="85.955" laptimedisplay="1&apos;25.955" num="66"/>
+            <rider topspeed="263.2" gap="41.433" gapdisplay="41.433" laptime="85.036" laptimedisplay="1&apos;25.036" num="84"/>
+            <rider topspeed="266.2" gap="49.173" gapdisplay="49.173" laptime="85.777" laptimedisplay="1&apos;25.777" num="71"/>
+            <rider topspeed="264.1" gap="62.17" gapdisplay="1&apos;02.17" laptime="86.096" laptimedisplay="1&apos;26.096" num="80"/>
+            <rider topspeed="267.3" gap="209.703" gapdisplay="3&apos;29.703" laptime="88.473" laptimedisplay="1&apos;28.473" num="6"/>
+            <rider topspeed="265.9" gap="293.847" gapdisplay="4&apos;53.847" laptime="84.683" laptimedisplay="1&apos;24.683" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.3" gap="0" laptime="84.046" laptimedisplay="1&apos;24.046" num="26"/>
+            <rider topspeed="271.9" gap="12.713" gapdisplay="12.713" laptime="84.482" laptimedisplay="1&apos;24.482" num="65"/>
+            <rider topspeed="267.2" gap="19.921" gapdisplay="19.921" laptime="85.07" laptimedisplay="1&apos;25.070" num="1"/>
+            <rider topspeed="259.7" gap="21.230" gapdisplay="21.230" laptime="85.406" laptimedisplay="1&apos;25.406" num="5"/>
+            <rider topspeed="268.7" gap="21.738" gapdisplay="21.738" laptime="86.961" laptimedisplay="1&apos;26.961" num="33"/>
+            <rider topspeed="270.2" gap="22.017" gapdisplay="22.017" laptime="86.427" laptimedisplay="1&apos;26.427" num="27"/>
+            <rider topspeed="271.1" gap="22.646" gapdisplay="22.646" laptime="86.269" laptimedisplay="1&apos;26.269" num="21"/>
+            <rider topspeed="265.0" gap="28.774" gapdisplay="28.774" laptime="86.174" laptimedisplay="1&apos;26.174" num="14"/>
+            <rider topspeed="267.1" gap="30.887" gapdisplay="30.887" laptime="85.704" laptimedisplay="1&apos;25.704" num="13"/>
+            <rider topspeed="264.7" gap="34.155" gapdisplay="34.155" laptime="86.842" laptimedisplay="1&apos;26.842" num="66"/>
+            <rider topspeed="263.9" gap="42.500" gapdisplay="42.500" laptime="85.113" laptimedisplay="1&apos;25.113" num="84"/>
+            <rider topspeed="266.3" gap="50.926" gapdisplay="50.926" laptime="85.799" laptimedisplay="1&apos;25.799" num="71"/>
+            <rider topspeed="263.7" gap="63.83" gapdisplay="1&apos;03.83" laptime="85.699" laptimedisplay="1&apos;25.699" num="80"/>
+            <rider topspeed="264.8" gap="213.803" gapdisplay="3&apos;33.803" laptime="88.146" laptimedisplay="1&apos;28.146" num="6"/>
+            <rider topspeed="265.6" gap="294.309" gapdisplay="4&apos;54.309" laptime="84.508" laptimedisplay="1&apos;24.508" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.1" gap="0" laptime="84.168" laptimedisplay="1&apos;24.168" num="26"/>
+            <rider topspeed="270.7" gap="13.240" gapdisplay="13.240" laptime="84.695" laptimedisplay="1&apos;24.695" num="65"/>
+            <rider topspeed="268.6" gap="19.959" gapdisplay="19.959" laptime="84.206" laptimedisplay="1&apos;24.206" num="1"/>
+            <rider topspeed="269.0" gap="21.118" gapdisplay="21.118" laptime="84.056" laptimedisplay="1&apos;24.056" num="5"/>
+            <rider topspeed="269.3" gap="24.568" gapdisplay="24.568" laptime="86.998" laptimedisplay="1&apos;26.998" num="33"/>
+            <rider topspeed="267.6" gap="24.656" gapdisplay="24.656" laptime="86.807" laptimedisplay="1&apos;26.807" num="27"/>
+            <rider topspeed="270.3" gap="24.904" gapdisplay="24.904" laptime="86.426" laptimedisplay="1&apos;26.426" num="21"/>
+            <rider topspeed="270.5" gap="30.651" gapdisplay="30.651" laptime="86.045" laptimedisplay="1&apos;26.045" num="14"/>
+            <rider topspeed="267.1" gap="32.888" gapdisplay="32.888" laptime="86.169" laptimedisplay="1&apos;26.169" num="13"/>
+            <rider topspeed="270.1" gap="36.077" gapdisplay="36.077" laptime="86.09" laptimedisplay="1&apos;26.090" num="66"/>
+            <rider topspeed="264.8" gap="43.437" gapdisplay="43.437" laptime="85.105" laptimedisplay="1&apos;25.105" num="84"/>
+            <rider topspeed="267.8" gap="53.159" gapdisplay="53.159" laptime="86.401" laptimedisplay="1&apos;26.401" num="71"/>
+            <rider topspeed="264.6" gap="65.52" gapdisplay="1&apos;05.52" laptime="85.861" laptimedisplay="1&apos;25.861" num="80"/>
+            <rider topspeed="255.8" gap="218.233" gapdisplay="3&apos;38.233" laptime="88.598" laptimedisplay="1&apos;28.598" num="6"/>
+            <rider topspeed="267.4" gap="296.176" gapdisplay="4&apos;56.176" laptime="86.035" laptimedisplay="1&apos;26.035" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="273.3" gap="0" laptime="84.512" laptimedisplay="1&apos;24.512" num="26"/>
+            <rider topspeed="270.3" gap="13.624" gapdisplay="13.624" laptime="84.896" laptimedisplay="1&apos;24.896" num="65"/>
+            <rider topspeed="269.3" gap="19.746" gapdisplay="19.746" laptime="84.299" laptimedisplay="1&apos;24.299" num="1"/>
+            <rider topspeed="266.8" gap="20.753" gapdisplay="20.753" laptime="84.147" laptimedisplay="1&apos;24.147" num="5"/>
+            <rider topspeed="273.6" gap="26.572" gapdisplay="26.572" laptime="86.428" laptimedisplay="1&apos;26.428" num="27"/>
+            <rider topspeed="267.1" gap="26.783" gapdisplay="26.783" laptime="86.727" laptimedisplay="1&apos;26.727" num="33"/>
+            <rider topspeed="268.0" gap="27.285" gapdisplay="27.285" laptime="86.893" laptimedisplay="1&apos;26.893" num="21"/>
+            <rider topspeed="268.9" gap="32.811" gapdisplay="32.811" laptime="86.672" laptimedisplay="1&apos;26.672" num="14"/>
+            <rider topspeed="266.3" gap="34.501" gapdisplay="34.501" laptime="86.125" laptimedisplay="1&apos;26.125" num="13"/>
+            <rider topspeed="270.5" gap="37.857" gapdisplay="37.857" laptime="86.292" laptimedisplay="1&apos;26.292" num="66"/>
+            <rider topspeed="262.0" gap="44.539" gapdisplay="44.539" laptime="85.614" laptimedisplay="1&apos;25.614" num="84"/>
+            <rider topspeed="265.3" gap="55.108" gapdisplay="55.108" laptime="86.461" laptimedisplay="1&apos;26.461" num="71"/>
+            <rider topspeed="264.6" gap="66.89" gapdisplay="1&apos;06.89" laptime="85.879" laptimedisplay="1&apos;25.879" num="80"/>
+            <rider topspeed="263.2" gap="222.083" gapdisplay="3&apos;42.083" laptime="88.362" laptimedisplay="1&apos;28.362" num="6"/>
+            <rider topspeed="266.7" gap="296.675" gapdisplay="4&apos;56.675" laptime="85.011" laptimedisplay="1&apos;25.011" num="7"/>
+        </lap>
+        <lap>
+            <rider topspeed="271.4" gap="0" laptime="84.696" laptimedisplay="1&apos;24.696" num="26"/>
+            <rider topspeed="269.4" gap="13.724" gapdisplay="13.724" laptime="84.796" laptimedisplay="1&apos;24.796" num="65"/>
+            <rider topspeed="268.5" gap="18.998" gapdisplay="18.998" laptime="83.948" laptimedisplay="1&apos;23.948" num="1"/>
+            <rider topspeed="268.7" gap="20.354" gapdisplay="20.354" laptime="84.297" laptimedisplay="1&apos;24.297" num="5"/>
+            <rider topspeed="273.5" gap="28.638" gapdisplay="28.638" laptime="86.762" laptimedisplay="1&apos;26.762" num="27"/>
+            <rider topspeed="268.6" gap="28.845" gapdisplay="28.845" laptime="86.758" laptimedisplay="1&apos;26.758" num="33"/>
+            <rider topspeed="267.9" gap="29.128" gapdisplay="29.128" laptime="86.539" laptimedisplay="1&apos;26.539" num="21"/>
+            <rider topspeed="269.6" gap="34.742" gapdisplay="34.742" laptime="86.627" laptimedisplay="1&apos;26.627" num="14"/>
+            <rider topspeed="263.6" gap="36.545" gapdisplay="36.545" laptime="86.74" laptimedisplay="1&apos;26.740" num="13"/>
+            <rider topspeed="269.7" gap="39.702" gapdisplay="39.702" laptime="86.541" laptimedisplay="1&apos;26.541" num="66"/>
+            <rider topspeed="263.2" gap="45.078" gapdisplay="45.078" laptime="85.235" laptimedisplay="1&apos;25.235" num="84"/>
+            <rider topspeed="266.7" gap="57.342" gapdisplay="57.342" laptime="86.93" laptimedisplay="1&apos;26.930" num="71"/>
+            <rider topspeed="261.8" gap="68.37" gapdisplay="1&apos;08.37" laptime="86.175" laptimedisplay="1&apos;26.175" num="80"/>
+            <rider topspeed="261.5" gap="226.6" gapdisplay="3&apos;46.600" laptime="89.213" laptimedisplay="1&apos;29.213" num="6"/>
+        </lap>
+        <lap>
+            <rider topspeed="270.5" gap="0" laptime="85.17" laptimedisplay="1&apos;25.170" num="26"/>
+            <rider topspeed="271.3" gap="13.433" gapdisplay="13.433" laptime="84.879" laptimedisplay="1&apos;24.879" num="65"/>
+            <rider topspeed="268.0" gap="18.185" gapdisplay="18.185" laptime="84.357" laptimedisplay="1&apos;24.357" num="1"/>
+            <rider topspeed="268.7" gap="19.455" gapdisplay="19.455" laptime="84.271" laptimedisplay="1&apos;24.271" num="5"/>
+            <rider topspeed="273.8" gap="30.731" gapdisplay="30.731" laptime="87.263" laptimedisplay="1&apos;27.263" num="27"/>
+            <rider topspeed="268.3" gap="30.836" gapdisplay="30.836" laptime="87.161" laptimedisplay="1&apos;27.161" num="33"/>
+            <rider topspeed="267.9" gap="31.172" gapdisplay="31.172" laptime="87.214" laptimedisplay="1&apos;27.214" num="21"/>
+            <rider topspeed="263.0" gap="38.971" gapdisplay="38.971" laptime="87.596" laptimedisplay="1&apos;27.596" num="13"/>
+            <rider topspeed="267.5" gap="41.723" gapdisplay="41.723" laptime="87.191" laptimedisplay="1&apos;27.191" num="66"/>
+            <rider topspeed="265.2" gap="45.526" gapdisplay="45.526" laptime="85.618" laptimedisplay="1&apos;25.618" num="84"/>
+            <rider topspeed="265.6" gap="59.870" gapdisplay="59.870" laptime="87.698" laptimedisplay="1&apos;27.698" num="71"/>
+            <rider topspeed="263.1" gap="69.4" gapdisplay="1&apos;09.400" laptime="86.199" laptimedisplay="1&apos;26.199" num="80"/>
+            <rider topspeed="249.7" gap="79.028" gapdisplay="1&apos;19.028" laptime="129.456" laptimedisplay="2&apos;09.456" num="14"/>
+        </lap>
+        <lap>
+            <rider topspeed="267.4" gap="0" laptime="85.916" laptimedisplay="1&apos;25.916" num="26"/>
+            <rider topspeed="270.7" gap="13.166" gapdisplay="13.166" laptime="85.649" laptimedisplay="1&apos;25.649" num="65"/>
+            <rider topspeed="268.3" gap="16.771" gapdisplay="16.771" laptime="84.502" laptimedisplay="1&apos;24.502" num="1"/>
+            <rider topspeed="266.3" gap="18.299" gapdisplay="18.299" laptime="84.76" laptimedisplay="1&apos;24.760" num="5"/>
+            <rider topspeed="273.3" gap="31.426" gapdisplay="31.426" laptime="86.611" laptimedisplay="1&apos;26.611" num="27"/>
+            <rider topspeed="270.7" gap="31.917" gapdisplay="31.917" laptime="86.997" laptimedisplay="1&apos;26.997" num="33"/>
+            <rider topspeed="269.1" gap="33.395" gapdisplay="33.395" laptime="88.139" laptimedisplay="1&apos;28.139" num="21"/>
+            <rider topspeed="263.5" gap="41.194" gapdisplay="41.194" laptime="88.139" laptimedisplay="1&apos;28.139" num="13"/>
+            <rider topspeed="269.0" gap="43.214" gapdisplay="43.214" laptime="87.407" laptimedisplay="1&apos;27.407" num="66"/>
+            <rider topspeed="265.6" gap="44.459" gapdisplay="44.459" laptime="84.849" laptimedisplay="1&apos;24.849" num="84"/>
+            <rider topspeed="265.0" gap="61.894" gapdisplay="1&apos;01.894" laptime="87.94" laptimedisplay="1&apos;27.940" num="71"/>
+            <rider topspeed="260.0" gap="70.721" gapdisplay="1&apos;10.721" laptime="87.237" laptimedisplay="1&apos;27.237" num="80"/>
+        </lap>
+    </laps>
+    <summaries>
+        <summary num="26" topspeed="275.0" lowspeed="267.4" avgspeed="272.462068965517"/>
+        <summary num="65" topspeed="273.9" lowspeed="269.4" avgspeed="272.08275862069"/>
+        <summary num="1" topspeed="271.5" lowspeed="261.4" avgspeed="268.558620689655"/>
+        <summary num="5" topspeed="269.9" lowspeed="259.7" avgspeed="267.748275862069"/>
+        <summary num="27" topspeed="275.5" lowspeed="256.7" avgspeed="272.210344827586"/>
+        <summary num="33" topspeed="271.8" lowspeed="266.6" avgspeed="269.320689655172"/>
+        <summary num="21" topspeed="271.1" lowspeed="267.7" avgspeed="268.910344827586"/>
+        <summary num="13" topspeed="267.7" lowspeed="263.0" avgspeed="265.993103448276"/>
+        <summary num="66" topspeed="270.5" lowspeed="259.2" avgspeed="267.848275862069"/>
+        <summary num="84" topspeed="266.7" lowspeed="255.9" avgspeed="263.444827586207"/>
+        <summary num="71" topspeed="268.6" lowspeed="250.5" avgspeed="266.003448275862"/>
+        <summary num="80" topspeed="266.1" lowspeed="254.1" avgspeed="263.6"/>
+        <summary num="6" topspeed="267.8" lowspeed="191.1" avgspeed="259.737037037037"/>
+        <summary num="7" topspeed="269.5" lowspeed="263.7" avgspeed="265.992307692308"/>
+        <summary num="14" topspeed="270.8" lowspeed="249.7" avgspeed="268.210714285714"/>
+        <summary num="56" topspeed="270.6" lowspeed="139.2" avgspeed="258.755555555556"/>
+        <summary num="4" topspeed="271.6" lowspeed="267.0" avgspeed="269.775"/>
+        <summary num="46" topspeed="268.2" lowspeed="266.3" avgspeed="267.5"/>
+        <summary num="50" topspeed="266.5" lowspeed="264.6" avgspeed="265.55"/>
+    </summaries>
+</race>
+
+
+

@@ -1,0 +1,552 @@
+<season year="2008" sizefactor="1.7">
+    <races>
+        <race short="QAT" name="COMMERCIALBANK GRAND PRIX"
+              date="03/09/2008" location="LOSAIL, QATAR" conditions="DRY"
+              temp="18" humidity="58" length="118.36"
+              hasdata="1" happened="1"/>
+        <race short="SPA" name="GRAN PREMIO betandwin.com DE ESPANA"
+              date="03/30/2008" location="JEREZ DE LA FRONTERA, SPAIN"
+              conditions="DRY" temp="19" humidity="26" length="119.42"
+              hasdata="1" happened="1"/>
+        <race short="POR" name="bwin.com GRANDE PREMIO DE PORTUGAL"
+              date="04/13/2008" location="ESTORIL, PORTUGAL"
+              conditions="DRY" temp="18" humidity="53" length="117.09"
+              hasdata="1" happened="1"/>
+        <race short="CHN" name="PRAMAC GRAND PRIX OF CHINA"
+              date="05/04/2008" location="SHANGHAI, CHINA"
+              conditions="WET" temp="21" humidity="72" length="116.18"
+              hasdata="1" happened="1"/>
+        <race short="FRA" name="ALICE GRAN PRIX DE FRANCE"
+              date="05/28/2008" location="LE MANS, FRANCE"
+              conditions="DRY" temp="20" humidity="38" length="117.04"
+              hasdata="1" happened="1"/>
+        <race short="ITA" name="GRAN PREMIO D'ITALIA ALICE"
+              date="06/01/2008" location="MUGELLO, ITALY"
+              conditions="DRY" temp="23" humidity="21" length="116.18"
+              hasdata="1" happened="1"/>
+        <race short="CAT" name="GRAN PREMI CINZANO DE CATALUNYA"
+              date="06/08/2008" location="CATALUNYA, SPAIN"
+              conditions="DRY" temp="27" humidity="34" length="118.17"
+              hasdata="1" happened="1"/>
+        <race short="GBR" name="bwin.com BRITISH GRAND PRIX"
+              date="06/22/2008" location="DONNINGTON PARK, ENGLAND"
+              conditions="DRY" temp="20" humidity="22" length="120.69"
+              hasdata="1" happened="1"/>
+        <race short="NED" name="A-STYLE TT ASSEN"
+              date="06/28/2008" location="ASSEN, HOLLAND"
+              conditions="DRY" temp="20" humidity="62" length="118.43"
+              hasdata="1" happened="1"/>
+        <race short="GER" name="ALICE MOTORRAD GRAND PRIX DEUTSCHLAND"
+              date="07/13/2008" location="SACHSENRING, GERMANY"
+              conditions="WET" temp="14" humidity="82" length="110.13"
+              hasdata="1" happened="1"/>
+        <race short="USA" name="RED BULL U.S. GRAND PRIX"
+              date="07/20/2008" location="LAGUNA SECA, USA"
+              conditions="DRY" temp="21" humidity="42" length="115.52"
+              hasdata="1" happened="1"/>
+        <race short="CZE" name="CARDION AB PRIX CESKE REPUBLIKY"
+              date="08/17/2008" location="AUTOMOTODROM BRNO, CZECH REPUBLIC"
+              conditions="DRY" temp="20" humidity="33" length="118.88"
+              hasdata="1" happened="1"/>
+        <race short="RSM" name="GP CINZANO DI SAN MARIO E DELLA RIVIERA DI RIMINI"
+              date="08/31/2008" location="MISANO, ITALY"
+              conditions="DRY" temp="35" humidity="29" length="118.33"
+              hasdata="1" happened="1"/>
+        <race short="INP" name="RED BULL INDIANAPOLIS GRAND PRIX"
+              date="09/14/2008" location="INDIANAPOLIS, USA"
+              conditions="DRY" temp="21" humidity="89" length="84.32"
+              hasdata="1" happened="1"/>
+        <race short="JPN" name="A-STYLE GRAND PRIX OF JAPAN"
+              date="09/28/2008" location="MOTEGI, JAPAN"
+              conditions="DRY" temp="19" humidity="51" length="115.22"
+              hasdata="1" happened="1"/>
+        <race short="AUS" name="AUSTRALIAN GRAND PRIX"
+              date="10/05/2008" location="PHILLIP ISLAND, AUSTRALIA"
+              conditions="DRY" temp="17" humidity="45" length="120.09"
+              hasdata="1" happened="1"/>
+        <race short="MAL" name="MALAYSIAN MOTORCYCLE GRAND PRIX"
+              date="10/19/2008" location="SEPANG, MALAYSIA"
+              conditions="DRY" temp="39" humidity="25" length="116.51"
+              hasdata="1" happened="1"/>
+        <race short="VAL" name="GRAN PREMIO bwin.com DE LA COMUNITAT VALENCIANA"
+              date="10/26/2008" location="COMUNITAT VALENCIA, SPAIN"
+              conditions="DRY" temp="19" humidity="43" length="120.15"
+              hasdata="0" happened="0"/>
+    </races>
+    <standings>
+        <rider number="46">
+            <race worldstanding="5" pt="11" place="5"/>
+            <race worldstanding="3" pt="31" place="2"/>
+            <race worldstanding="3" pt="47" place="3"/>
+            <race worldstanding="3" pt="72" place="1"/>
+            <race worldstanding="1" pt="97" place="1"/>
+            <race worldstanding="1" pt="122" place="1"/>
+            <race worldstanding="1" pt="142" place="2"/>
+            <race worldstanding="1" pt="162" place="2"/>
+            <race worldstanding="2" pt="167" place="11"/>
+            <race worldstanding="1" pt="187" place="2"/>
+            <race worldstanding="1" pt="212" place="1"/>
+            <race worldstanding="1" pt="237" place="1"/>
+            <race worldstanding="1" pt="262" place="1"/>
+            <race worldstanding="1" pt="287" place="1"/>
+            <race worldstanding="1" pt="312" place="1"/>
+            <race worldstanding="1" pt="332" place="2"/>
+            <race worldstanding="1" pt="357" place="1"/>
+        </rider>
+        <rider number="48">
+            <race worldstanding="2" pt="20" place="2"/>
+            <race worldstanding="2" pt="36" place="3"/>
+            <race worldstanding="2" pt="61" place="1"/>
+            <race worldstanding="2" pt="74" place="4"/>
+            <race worldstanding="2" pt="94" place="2"/>
+            <race worldstanding="3" pt="94" place="18"/>
+            <race worldstanding="3" pt="94" place="18"/>
+            <race worldstanding="4" pt="104" place="6"/>
+            <race worldstanding="4" pt="114" place="6"/>
+            <race worldstanding="4" pt="114" place="18"/>
+            <race worldstanding="4" pt="114" place="18"/>
+            <race worldstanding="4" pt="120" place="10"/>
+            <race worldstanding="4" pt="140" place="2"/>
+            <race worldstanding="4" pt="156" place="3"/>
+            <race worldstanding="4" pt="169" place="4"/>
+            <race worldstanding="4" pt="182" place="4"/>
+            <race worldstanding="4" pt="182" place="18"/>
+        </rider>
+        <rider number="2">
+            <race worldstanding="3" pt="16" place="3"/>
+            <race worldstanding="1" pt="41" place="1"/>
+            <race worldstanding="1" pt="61" place="2"/>
+            <race worldstanding="1" pt="81" place="2"/>
+            <race worldstanding="3" pt="94" place="4"/>
+            <race worldstanding="2" pt="110" place="3"/>
+            <race worldstanding="2" pt="135" place="1"/>
+            <race worldstanding="2" pt="151" place="3"/>
+            <race worldstanding="1" pt="171" place="2"/>
+            <race worldstanding="2" pt="171" place="18"/>
+            <race worldstanding="3" pt="171" place="18"/>
+            <race worldstanding="3" pt="172" place="15"/>
+            <race worldstanding="3" pt="185" place="4"/>
+            <race worldstanding="3" pt="193" place="8"/>
+            <race worldstanding="3" pt="209" place="3"/>
+            <race worldstanding="3" pt="209" place="18"/>
+            <race worldstanding="3" pt="229" place="2"/>
+        </rider>
+        <rider number="1">
+            <race worldstanding="1" pt="25" place="1"/>
+            <race worldstanding="4" pt="30" place="11"/>
+            <race worldstanding="4" pt="40" place="6"/>
+            <race worldstanding="4" pt="56" place="3"/>
+            <race worldstanding="4" pt="56" place="18"/>
+            <race worldstanding="4" pt="76" place="2"/>
+            <race worldstanding="4" pt="92" place="3"/>
+            <race worldstanding="3" pt="117" place="1"/>
+            <race worldstanding="3" pt="142" place="1"/>
+            <race worldstanding="3" pt="167" place="1"/>
+            <race worldstanding="2" pt="187" place="2"/>
+            <race worldstanding="2" pt="187" place="18"/>
+            <race worldstanding="2" pt="187" place="18"/>
+            <race worldstanding="2" pt="200" place="4"/>
+            <race worldstanding="2" pt="220" place="2"/>
+            <race worldstanding="2" pt="245" place="1"/>
+            <race worldstanding="2" pt="255" place="6"/>
+        </rider>
+        <rider number="5">
+            <race worldstanding="7" pt="9" place="7"/>
+            <race worldstanding="11" pt="9" place="18"/>
+            <race worldstanding="8" pt="22" place="4"/>
+            <race worldstanding="7" pt="31" place="7"/>
+            <race worldstanding="5" pt="47" place="3"/>
+            <race worldstanding="5" pt="58" place="5"/>
+            <race worldstanding="5" pt="69" place="5"/>
+            <race worldstanding="5" pt="82" place="4"/>
+            <race worldstanding="5" pt="98" place="3"/>
+            <race worldstanding="5" pt="98" place="18"/>
+            <race worldstanding="6" pt="100" place="14"/>
+            <race worldstanding="6" pt="102" place="14"/>
+            <race worldstanding="6" pt="108" place="10"/>
+            <race worldstanding="7" pt="109" place="15"/>
+            <race worldstanding="6" pt="118" place="7"/>
+            <race worldstanding="7" pt="126" place="8"/>
+            <race worldstanding="7" pt="134" place="8"/>
+        </rider>
+        <rider number="65">
+            <race worldstanding="8" pt="8" place="8"/>
+            <race worldstanding="7" pt="19" place="5"/>
+            <race worldstanding="6" pt="26" place="9"/>
+            <race worldstanding="5" pt="33" place="9"/>
+            <race worldstanding="6" pt="42" place="7"/>
+            <race worldstanding="6" pt="51" place="7"/>
+            <race worldstanding="8" pt="51" place="18"/>
+            <race worldstanding="9" pt="51" place="18"/>
+            <race worldstanding="11" pt="51" place="18"/>
+            <race worldstanding="11" pt="60" place="7"/>
+            <race worldstanding="11" pt="61" place="15"/>
+            <race worldstanding="10" pt="77" place="3"/>
+            <race worldstanding="9" pt="86" place="7"/>
+            <race worldstanding="11" pt="86" place="18"/>
+            <race worldstanding="9" pt="96" place="6"/>
+            <race worldstanding="10" pt="102" place="10"/>
+            <race worldstanding="10" pt="111" place="7"/>
+        </rider>
+        <rider number="69">
+            <race worldstanding="10" pt="6" place="10"/>
+            <race worldstanding="8" pt="19" place="4"/>
+            <race worldstanding="10" pt="19" place="18"/>
+            <race worldstanding="8" pt="29" place="6"/>
+            <race worldstanding="7" pt="37" place="8"/>
+            <race worldstanding="9" pt="40" place="13"/>
+            <race worldstanding="9" pt="48" place="8"/>
+            <race worldstanding="7" pt="57" place="7"/>
+            <race worldstanding="7" pt="70" place="4"/>
+            <race worldstanding="8" pt="73" place="13"/>
+            <race worldstanding="8" pt="84" place="5"/>
+            <race worldstanding="8" pt="84" place="18"/>
+            <race worldstanding="11" pt="84" place="18"/>
+            <race worldstanding="8" pt="20" place="2"/>
+            <race worldstanding="8" pt="115" place="4"/>
+            <race worldstanding="6" pt="131" place="3"/>
+            <race worldstanding="6" pt="144" place="4"/>
+        </rider>
+        <rider number="4">
+            <race worldstanding="4" pt="13" place="4"/>
+            <race worldstanding="5" pt="21" place="8"/>
+            <race worldstanding="9" pt="21" place="18"/>
+            <race worldstanding="9" pt="26" place="11"/>
+            <race worldstanding="8" pt="36" place="6"/>
+            <race worldstanding="7" pt="44" place="8"/>
+            <race worldstanding="6" pt="57" place="4"/>
+            <race worldstanding="6" pt="68" place="5"/>
+            <race worldstanding="6" pt="79" place="5"/>
+            <race worldstanding="6" pt="90" place="5"/>
+            <race worldstanding="5" pt="103" place="4"/>
+            <race worldstanding="5" pt="110" place="9"/>
+            <race worldstanding="5" pt="118" place="8"/>
+            <race worldstanding="5" pt="129" place="5"/>
+            <race worldstanding="5" pt="136" place="9"/>
+            <race worldstanding="5" pt="145" place="7"/>
+            <race worldstanding="5" pt="161" place="3"/>
+        </rider>
+        <rider number="52">
+            <race worldstanding="6" pt="10" place="6"/>
+            <race worldstanding="6" pt="20" place="6"/>
+            <race worldstanding="5" pt="29" place="7"/>
+            <race worldstanding="6" pt="33" place="12"/>
+            <race worldstanding="9" pt="33" place="18"/>
+            <race worldstanding="8" pt="43" place="6"/>
+            <race worldstanding="7" pt="53" place="6"/>
+            <race worldstanding="8" pt="53" place="18"/>
+            <race worldstanding="8" pt="60" place="9"/>
+            <race worldstanding="9" pt="65" place="11"/>
+            <race worldstanding="9" pt="72" place="9"/>
+            <race worldstanding="11" pt="75" place="13"/>
+            <race worldstanding="10" pt="85" place="6"/>
+            <race worldstanding="12" pt="85" place="18"/>
+            <race worldstanding="11" pt="90" place="11"/>
+            <race worldstanding="11" pt="100" place="6"/>
+            <race worldstanding="11" pt="100" place="18"/>
+        </rider>
+        <rider number="56">
+            <race worldstanding="13" pt="3" place="13"/>
+            <race worldstanding="10" pt="10" place="9"/>
+            <race worldstanding="11" pt="16" place="10"/>
+            <race worldstanding="12" pt="22" place="10"/>
+            <race worldstanding="10" pt="28" place="10"/>
+            <race worldstanding="10" pt="35" place="9"/>
+            <race worldstanding="10" pt="42" place="9"/>
+            <race worldstanding="10" pt="49" place="9"/>
+            <race worldstanding="10" pt="57" place="8"/>
+            <race worldstanding="10" pt="64" place="9"/>
+            <race worldstanding="10" pt="70" place="10"/>
+            <race worldstanding="9" pt="83" place="4"/>
+            <race worldstanding="8" pt="87" place="12"/>
+            <race worldstanding="9" pt="87" place="18"/>
+            <race worldstanding="10" pt="95" place="8"/>
+            <race worldstanding="9" pt="106" place="5"/>
+            <race worldstanding="9" pt="117" place="5"/>
+        </rider>
+        <rider number="21">
+            <race worldstanding="12" pt="4" place="12"/>
+            <race worldstanding="9" pt="13" place="7"/>
+            <race worldstanding="7" pt="24" place="5"/>
+            <race worldstanding="10" pt="26" place="14"/>
+            <race worldstanding="11" pt="26" place="18"/>
+            <race worldstanding="12" pt="26" place="18"/>
+            <race worldstanding="12" pt="32" place="10"/>
+            <race worldstanding="12" pt="32" place="18"/>
+            <race worldstanding="13" pt="32" place="18"/>
+            <race worldstanding="15" pt="32" place="18"/>
+            <race worldstanding="16" pt="32" place="18"/>
+            <race worldstanding="17" pt="37" place="11"/>
+            <race worldstanding="17" pt="39" place="14"/>
+            <race worldstanding="17" pt="41" place="14"/>
+            <race worldstanding="16" pt="47" place="10"/>
+            <race worldstanding="17" pt="50" place="13"/>
+            <race worldstanding="16" pt="55" place="11"/>
+        </rider>
+        <rider number="7">
+            <race worldstanding="16" pt="0" place="18"/>
+            <race worldstanding="14" pt="6" place="10"/>
+            <race worldstanding="12" pt="14" place="8"/>
+            <race worldstanding="14" pt="14" place="18"/>
+            <race worldstanding="12" pt="25" place="5"/>
+            <race worldstanding="11" pt="31" place="10"/>
+            <race worldstanding="11" pt="40" place="7"/>
+            <race worldstanding="11" pt="48" place="8"/>
+            <race worldstanding="9" pt="57" place="7"/>
+            <race worldstanding="7" pt="73" place="3"/>
+            <race worldstanding="7" pt="89" place="3"/>
+            <race worldstanding="7" pt="99" place="6"/>
+            <race worldstanding="7" pt="110" place="5"/>
+            <race worldstanding="6" pt="117" place="9"/>
+            <race worldstanding="7" pt="117" place="18"/>
+            <race worldstanding="8" pt="118" place="15"/>
+            <race worldstanding="8" pt="125" place="9"/>
+        </rider>
+        <rider number="33">
+            <race worldstanding="11" pt="5" place="11"/>
+            <race worldstanding="12" pt="9" place="12"/>
+            <race worldstanding="13" pt="12" place="13"/>
+            <race worldstanding="11" pt="23" place="5"/>
+            <race worldstanding="13" pt="24" place="15"/>
+            <race worldstanding="14" pt="24" place="18"/>
+            <race worldstanding="13" pt="29" place="11"/>
+            <race worldstanding="13" pt="29" place="18"/>
+            <race worldstanding="14" pt="32" place="13"/>
+            <race worldstanding="16" pt="32" place="18"/>
+            <race worldstanding="17" pt="32" place="18"/>
+            <race worldstanding="15" pt="41" place="7"/>
+            <race worldstanding="14" pt="48" place="9"/>
+            <race worldstanding="15" pt="48" place="18"/>
+            <race worldstanding="15" pt="51" place="13"/>
+            <race worldstanding="16" pt="51" place="18"/>
+            <race worldstanding="17" pt="51" place="18"/>
+        </rider>
+        <rider number="24">
+            <race worldstanding="14" pt="2" place="14"/>
+            <race worldstanding="15" pt="3" place="15"/>
+            <race worldstanding="15" pt="7" place="12"/>
+            <race worldstanding="13" pt="15" place="8"/>
+            <race worldstanding="14" pt="20" place="11"/>
+            <race worldstanding="15" pt="24" place="12"/>
+            <race worldstanding="15" pt="24" place="18"/>
+            <race worldstanding="14" pt="29" place="11"/>
+            <race worldstanding="12" pt="33" place="12"/>
+            <race worldstanding="13" pt="37" place="12"/>
+            <race worldstanding="12" pt="46" place="7"/>
+            <race worldstanding="12" pt="66" place="2"/>
+            <race worldstanding="12" pt="82" place="3"/>
+            <race worldstanding="10" pt="86" place="12"/>
+            <race worldstanding="12" pt="86" place="18"/>
+            <race worldstanding="12" pt="91" place="11"/>
+            <race worldstanding="12" pt="92" place="15"/>
+        </rider>
+        <rider number="14">
+            <race worldstanding="9" pt="7" place="9"/>
+            <race worldstanding="13" pt="7" place="18"/>
+            <race worldstanding="14" pt="8" place="15"/>
+            <race worldstanding="15" pt="11" place="13"/>
+            <race worldstanding="15" pt="18" place="9"/>
+            <race worldstanding="16" pt="18" place="18"/>
+            <race worldstanding="16" pt="18" place="18"/>
+            <race worldstanding="16" pt="22" place="12"/>
+            <race worldstanding="17" pt="22" place="18"/>
+            <race worldstanding="17" pt="30" place="8"/>
+            <race worldstanding="14" pt="40" place="6"/>
+            <race worldstanding="16" pt="40" place="18"/>
+            <race worldstanding="16" pt="40" place="18"/>
+            <race worldstanding="16" pt="43" place="13"/>
+            <race worldstanding="17" pt="47" place="12"/>
+            <race worldstanding="15" pt="54" place="9"/>
+            <race worldstanding="14" pt="60" place="10"/>
+        </rider>
+        <rider number="15">
+            <race worldstanding="17" pt="0" place="18"/>
+            <race worldstanding="17" pt="2" place="14"/>
+            <race worldstanding="16" pt="7" place="11"/>
+            <race worldstanding="16" pt="7" place="18"/>
+            <race worldstanding="16" pt="11" place="12"/>
+            <race worldstanding="13" pt="24" place="4"/>
+            <race worldstanding="14" pt="24" place="18"/>
+            <race worldstanding="15" pt="25" place="15"/>
+            <race worldstanding="15" pt="25" place="18"/>
+            <race worldstanding="12" pt="38" place="4"/>
+            <race worldstanding="13" pt="41" place="13"/>
+            <race worldstanding="13" pt="49" place="8"/>
+            <race worldstanding="13" pt="49" place="18"/>
+            <race worldstanding="14" pt="55" place="10"/>
+            <race worldstanding="14" pt="55" place="18"/>
+            <race worldstanding="14" pt="55" place="18"/>
+            <race worldstanding="15" pt="57" place="14"/>
+        </rider>
+        <rider number="50">
+            <race worldstanding="15" pt="1" place="15"/>
+            <race worldstanding="18" pt="1" place="18"/>
+            <race worldstanding="18" pt="3" place="14"/>
+            <race worldstanding="17" pt="4" place="15"/>
+            <race worldstanding="17" pt="7" place="13"/>
+            <race worldstanding="17" pt="12" place="11"/>
+            <race worldstanding="17" pt="15" place="13"/>
+            <race worldstanding="17" pt="18" place="13"/>
+            <race worldstanding="16" pt="24" place="10"/>
+            <race worldstanding="14" pt="34" place="6"/>
+            <race worldstanding="15" pt="38" place="12"/>
+            <race worldstanding="14" pt="42" place="12"/>
+            <race worldstanding="15" pt="47" place="11"/>
+            <race worldstanding="13" pt="56" place="7"/>
+            <race worldstanding="13" pt="58" place="14"/>
+            <race worldstanding="13" pt="60" place="14"/>
+            <race worldstanding="13" pt="63" place="13"/>
+        </rider>
+        <rider number="13">
+            <race worldstanding="18" pt="0" place="18"/>
+            <race worldstanding="16" pt="3" place="13"/>
+            <race worldstanding="17" pt="3" place="18"/>
+            <race worldstanding="18" pt="3" place="18"/>
+            <race worldstanding="18" pt="5" place="14"/>
+            <race worldstanding="18" pt="6" place="15"/>
+            <race worldstanding="18" pt="10" place="12"/>
+            <race worldstanding="18" pt="16" place="10"/>
+            <race worldstanding="18" pt="16" place="18"/>
+            <race worldstanding="18" pt="22" place="10"/>
+            <race worldstanding="18" pt="22" place="18"/>
+            <race worldstanding="18" pt="33" place="5"/>
+            <race worldstanding="18" pt="36" place="13"/>
+            <race worldstanding="18" pt="41" place="11"/>
+            <race worldstanding="18" pt="42" place="15"/>
+            <race worldstanding="18" pt="46" place="12"/>
+            <race worldstanding="18" pt="50" place="12"/>
+        </rider>
+        <rider number="11">
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="20" pt="0" place="18"/>
+            <race worldstanding="19" pt="2" place="14"/>
+            <race worldstanding="19" pt="2" place="18"/>
+            <race worldstanding="19" pt="2" place="18"/>
+            <race worldstanding="19" pt="10" place="8"/>
+            <race worldstanding="19" pt="10" place="18"/>
+            <race worldstanding="19" pt="10" place="18"/>
+            <race worldstanding="19" pt="20" place="6"/>
+            <race worldstanding="19" pt="20" place="18"/>
+            <race worldstanding="19" pt="20" place="18"/>
+            <race worldstanding="19" pt="20" place="18"/>
+        </rider>
+        <rider number="8">
+            <race worldstanding="19" pt="0" place="18"/>
+            <race worldstanding="19" pt="0" place="18"/>
+            <race worldstanding="19" pt="0" place="18"/>
+            <race worldstanding="19" pt="0" place="18"/>
+            <race worldstanding="19" pt="0" place="18"/>
+            <race worldstanding="19" pt="2" place="14"/>
+            <race worldstanding="19" pt="2" place="18"/>
+            <race worldstanding="20" pt="2" place="18"/>
+            <race worldstanding="20" pt="2" place="18"/>
+            <race worldstanding="20" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+            <race worldstanding="21" pt="2" place="18"/>
+        </rider>
+        <rider number="12">
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="21" pt="0" place="18"/>
+            <race worldstanding="20" pt="5" place="11"/>
+            <race worldstanding="20" pt="5" place="18"/>
+            <race worldstanding="20" pt="5" place="18"/>
+            <race worldstanding="20" pt="5" place="18"/>
+            <race worldstanding="20" pt="5" place="18"/>
+            <race worldstanding="20" pt="5" place="18"/>
+            <race worldstanding="20" pt="5" place="18"/>
+        </rider>
+        <rider number="9">
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+            <race worldstanding="22" pt="0" place="18"/>
+        </rider>
+    </standings>
+    <teams>
+        <team name="repsol honda" color="0xE99042" manufacturer="honda" tires="Michelin">
+            <rider num="69" name="Nicky Hayden" country="USA" birth="7.30.1981">As the 2006 MotoGP World Champion, Hayden was the last winner in the 990cc era before the change to 800cc engine regulations in 2007. The Kentuckian's superbike pedigree (he won the AMA title in 2002 before coming to MotoGP) served him well on the bigger Honda; a manufacturer with whom he has remained loyal since his debut in 2003.</rider>
+            <rider num="2" name="Dani Pedrosa" country="Spain" birth="9.29.1985">Only 21, Pedrosa has grown-up in the world championship paddock since being spotted at the age of 15 in Alberto Puig's renowned talent-spotting scheme.  He has since gained a total of three titles, 27 wins and 57 podiums becoming one of Spain's most successful riders.</rider>
+            <rider num="8" name="Tadayuki Okada" country="Japan" birth="2.13.1967">Okada won the 250cc All Japan Road Race Championship in 3 successive years from 1989 to 1991 for Honda, who took him to the 250cc World Championship in 1993. He was runner-up in the series in 1994, and fourth in 1995. During the 500cc era, Okada finished 2nd in 1997 and 3rd in 1999.</rider>
+        </team>
+        <team name="fiat yamaha" color="0xCFC813" manufacturer="yamaha" tires="Michelin">
+            <rider num="46" name="Valentino Rossi" country="Italy" birth="2.16.1979" tires="Bridgestone">An icon of motorcycle racing, arguably one of its greatest ever riders, winner of titles and races in every category and with three manufacturers, Valentino Rossi has never gone more than a year (from twelve seasons) without a crown. He has the most podiums in the history of the premier-class and is the most successful Yamaha rider ever in the premier-class.</rider>
+            <rider num="48" name="Jorge Lorenzo" country="Spain" birth="5.4.1987">It is apt that double 250cc world champion Jorge Lorenzo is seen as the key future star of the competition by more than just his followers. With 17 Grand Prix wins Jorge is the most successful Spanish 250cc rider ever. His is known for his victory lap stunts which have involved dressing up as a prize-winning boxer and also a gladiator.</rider>
+        </team>
+        <team name="ducati malboro" color="0xF16363" manufacturer="ducati" tires="Bridgestone">
+            <rider num="1" name="Casey Stoner" country="Australia" birth="10.16.1985">With a background in Australian dirt-track, Stoner boldly moved to Europe as a teenager, supported totally by his parents, where he shone on a 125cc machine in the UK and Spain. A five year rise into MotoGP saw two 125 wins and five 250cc successes he even managed a podium result with 3rd place on only his third MotoGP outing in 2006.</rider>
+            <rider num="33" name="Marco Melandri" country="Italy" birth="8.7.1982">A teenage prodigy (and still the youngest winner ever at the age of 15 in the 1998 Dutch TT) Melandri has won races in every category, was a rightful 250cc champion in 2002, and is a reliably fast performer as top five championship finishes in eight of his ten seasons at the highest level reveal. He has totalled almost twenty podiums and five victories in just four years of MotoGP.</rider>
+        </team>
+        <team name="rizla suzuki" color="0x8AC0C3" manufacturer="suzuki" tires="Bridgestone">
+            <rider num="65" name="Loris Capirossi" country="Italy" birth="4.4.1973">Three world championships, wins in every class, and 29 Grand Prix victories in an 18 year period means that Loris Capirossi is now the elder statesman of MotoGP and the most experienced racer on the grid. He has finished outside of a Championship top ten only once in 17 years.</rider>
+            <rider num="7" name="Chris Vermeulen" country="Australia" birth="6.19.1982">Vermeulen used to work in his parent's bakery, while dirt-track racing as a junior in Australia. His potential was encouraged and promoted by MotoGP Legend Barry Sheene. Vermeulen won the World Supersport championship (2003) and was 2nd in the WSB (2005) series before moving to Grand Prix racing. </rider>
+            <rider num="11" name="Ben Spies" country="USA" birth="7.11.1984">Spies started racing on 125cc bikes in Texas as a teenager. In late 2000 he qualified on the front row for his debut in the AMA Supersport Championship series. Spies then won the USA AMA Superbike Championship in 2006, taking six successive wins early in the 2006 season. In 2007, Spies won the championship by a single point, successfully defending his crown.</rider>
+            <rider num="9" name="Nobuatsu AOKI" country="USA" birth="8.31.1971">Aoki began his Grand Prix career in 1990 and won his first and only Grand Prix at the 250cc Malaysian Grand Prix. His best season was in 1997, when he finished third in the 500cc world championship behind Mick Doohan and Tadayuki Okada.</rider>
+        </team>
+        <team name="kawasaki racing" color="0x88C133" manufacturer="kawasaki" tires="Bridgestone">
+            <rider num="21" name="John Hopkins" country="USA" birth="5.22.1983">Hopkins has a dirt-track back ground and was riding/racing off-road in his early teens. In 2002 teenager he was thrown into the deep-end of MotoGP after promising form and titles in AMA supersport and Formula Xtreme marked him as the new major talent in US road racing. It took Hopkins four years before he could celebrate his first podium.</rider>
+            <rider num="13" name="Ant West" country="Australia" birth="7.17.1981">Ant West was an Australian dirt-track champion at the age of 15 before starting to road-race. West has bounced between the 250cc and premier classes during his eight seasons at world championship level. Winning two out of three world supersport appearances earned him a 2007 Kawasaki ride.</rider>
+            <rider num="12" name="Jamie Hacking" country="USA" birth="6.30.1970">In 1994 Jamie turned his attention from dirt track and BMX riding to road racing. Jamie entered the AMA Supersport Championship series in 1997. In 2003 he won the AMA Supersport Championship with factory Yamaha. 2007 saw him move to Monster Energy Kawasaki where he finished the season 6th in Superbike and runner up in Supersport.</rider>
+        </team>
+        <team name="san carlo honda gresini" color="0xC04343" manufacturer="honda" tires="Bridgestone">
+            <rider num="56" name="Shinya Nakano" country="Japan" birth="10.10.1977">With six seasons in MotoGP and nine at world championship level Shinya Nakano is just one of five riders on the current grid to have raced a 500c two-stroke in earnest. Despite his three podiums in the premier class Nakano will still be best remembered for a mesmerising 250cc campaign in 2000 in which he fought with team-mate Olivier Jacques.</rider>
+            <rider num="15" name="Alex de Angelis" country="Italy" birth="2.26.1984">Alex de Angelis is one of four new faces in MotoGP for 2008 and one of the top three to emerge from the '07 250cc world championship. Still just 24 years old, De Angelis entered the Grand Prix scene in 2000 at the age of 16. He was 125cc world championship runner-up in 2003.</rider>
+        </team>
+        <team name="tech 3 yamaha" color="0x979902" manufacturer="yamaha" tires="Michelin">
+            <rider num="5" name="Colin Edwards" country="USA" birth="2.27.1974">Edwards won 31 World Superbike races and 2 WSB titles before moving to MotoGP. Edwards has a fantastic record for consistency in MotoGP. He has only missed the points 8 times from his 84 appearances and six seasons prior to 2008. He is still chasing his first ever MotoGP win.</rider>            
+            <rider num="52" name="James Toseland" country="United Kingdom" birth="2.27.1974">The 2007 world superbike champion is the only British rider in MotoGP this year and the one racer that fans from the UK have been genuinely keen to see operate at this level. Toseland captured the production-based title before, in 2004, and at the age of 27 knew that the time was right to try his hand at MotoGP.</rider>
+        </team>
+        <team name="alice team" color="0x77625E" manufacturer="ducati" tires="Bridgestone">
+            <rider num="24" name="Toni Elias" country="Spain" birth="3.25.1983">The Spaniard, a winner at 125cc and 250cc level after coming through the same talent filter as Dani Pedrosa back in 2001, was always impatient to reach the premier class and although he has yet to make the same impact as the four years where he did not drop out of the top four overall in 125/250, his presence ensures an unpredictable edge to MotoGP.</rider>
+            <rider num="50" name="Sylvain Guintoli" country="French" birth="6.24.1982">He had been one of the top privateers competing in the 250cc class from 2001 to 2006, riding Aprilia machinery and taking a Championship best of 9th in 2006. He made a strong impression in 2007. Despite only entering the top ten on two occasions from seventeen GPs, one of those results was an excellent fourth position in Japan.</rider>
+        </team>
+        <team name="lrc honda" color="0xA6A6A6" manufacturer="honda" tires="Michelin">
+            <rider num="14" name="Randy de Puniet" country="France" birth="2.14.1981">Randy de Puniet has a decade of Grand Prix experience at the age of 27. Although 2007 sees only his second season of MotoGP participation he registered six years and 113 appearances as a 250cc rider, notching 5 wins and 22 podiums in that time.</rider>
+        </team>
+        <team name="JIR Team Scot MotoGP" color="0xA6A6A6" manufacturer="honda" tires="Michelin">
+            <rider num="4" name="Andrea Dovizioso" country="Italy" birth="3.23.1986">From the 250cc category, and a rider whose excellent pedigree on 125cc machinery (world champion in 2004) and the 26 podiums in three years on the 250cc, means that Dovizioso should blend quickly with 800cc MotoGP bikes. For the last three seasons, Dovizioso has placed 3rd and 2nd twice in his 250cc campaigns.</rider>
+        </team>
+    </teams>
+    <tires>
+        <tire name="Michelin" color="0x7087B5"/>
+        <tire name="Bridgestone" color="0xF16363"/>
+        <tire name="Dunlop" color="0xCFC813"/>
+    </tires>
+    <manufacturers>
+        <manufacturer name="honda" color="0xC04343"/>
+        <manufacturer name="yamaha" color="0x7087B5"/>
+        <manufacturer name="ducati" color="0xF16363"/>
+        <manufacturer name="kawasaki" color="0x88C133"/>
+        <manufacturer name="suzuki" color="0xD9DE16"/>
+    </manufacturers>
+</season>
